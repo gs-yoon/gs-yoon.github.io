@@ -7,8 +7,8 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            gs_yoon
-tagline:          'gs_yoon'
+title:            Geonsu Yoon
+tagline:          'cv'
 description:      'online cv'
 url:              http://gs-yoon.github.io
 baseurl:          /
