@@ -11,7 +11,7 @@ title:            Geonsu Yoon
 tagline:          'cv'
 description:      'online cv'
 url:              http://gs-yoon.github.io
-baseurl:          
+baseurl:          /
 
 
 author:
