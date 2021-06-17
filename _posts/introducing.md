@@ -1,7 +1,15 @@
 ---
 layout: post
-title: ShortShort CV
+title: Geonsu Yoon
 ---
+
+***
+<hr width = "100%" color = "black" size = "2">
+![윤건수(19960614)](https://user-images.githubusercontent.com/57785895/122382933-58205700-cfa5-11eb-8492-19379eec683c.jpg)
+
+Education
+Kyunghee university bachelor's degree
+
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
