@@ -4,11 +4,8 @@ title: Experience
 ---
 
 ### Inteligent Model Car Competetion
-<div class="message">
-  - It was supported by Hanyang University
   Goal of the competetion is to design autonomous model car that trace correct lines and avoid obstacles. 
   I desinged object detection with digital image processing and steering with stanely method
-</div>
 
 ### Indoor Guide Robot for Visually Impaired Person
 <div class="message">
