@@ -3,7 +3,6 @@ layout: post
 title: Experience
 ---
 
-## Exeperience 
 ### Inteligent Model Car Competetion
 <div class="message">
   - It was supported by Hanyang University
