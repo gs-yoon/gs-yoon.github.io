@@ -2,14 +2,12 @@
 layout: post
 title: Geonsu Yoon
 ---
-# Geonsu Yoon
-
 <!--![image](https://user-images.githubusercontent.com/57785895/122384263-7d619500-cfa6-11eb-8250-ffe4ead91b41.jpg){:.alignleft}-->
 <img src="https://user-images.githubusercontent.com/57785895/122384263-7d619500-cfa6-11eb-8250-ffe4ead91b41.jpg" alt="image" style="float:left">
 
 ### 　Education
 
-　　Kyunghee university bachelor's degree
+　 Kyunghee university bachelor's degree
    
    
    
@@ -21,7 +19,11 @@ title: Geonsu Yoon
    
    
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ### Built on Poole
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
