@@ -11,7 +11,8 @@ title:            Geonsu Yoon
 tagline:          'cv'
 description:      'online cv'
 url:              http://gs-yoon.github.io
-#baseurl:          /
+baseurl:          /
+
 
 author:
   name:           'Mark Otto'
@@ -24,3 +25,10 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+  
+  
+defaults:
+  scope:
+    type: "pages"
+  values:
+    layout: "page"
