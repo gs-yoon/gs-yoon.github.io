@@ -3,12 +3,10 @@ layout: post
 title: Geonsu Yoon
 ---
 
-***
-<hr width = "100%" color = "black" size = "2">
-![image](https://user-images.githubusercontent.com/57785895/122383430-c8c77380-cfa5-11eb-9c87-fcdea408fb70.jpg)
-
-Education
-Kyunghee university bachelor's degree
+<hr width = "100%" color = "black" size = "5">
+![image](https://user-images.githubusercontent.com/57785895/122384263-7d619500-cfa6-11eb-8250-ffe4ead91b41.jpg)
+* Education
+   Kyunghee university bachelor's degree
 
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
