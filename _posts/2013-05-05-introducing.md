@@ -8,6 +8,7 @@ title: Geonsu Yoon
 ### 　　Education
 　　　Kyunghee university - Electric Engineering
 <br>
+<br>
 ### 　　Careere
 　　　Hyndai Mobis (2021.02 ~)
  
