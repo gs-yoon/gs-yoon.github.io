@@ -4,8 +4,9 @@ title: Geonsu Yoon
 ---
 
 <hr width = "100%" color = "black" size = "5">
-![image](https://user-images.githubusercontent.com/57785895/122384263-7d619500-cfa6-11eb-8250-ffe4ead91b41.jpg)
-* Education
+![image](https://user-images.githubusercontent.com/57785895/122384263-7d619500-cfa6-11eb-8250-ffe4ead91b41.jpg){:.alignleft}
+
+   Education
    Kyunghee university bachelor's degree
 
 
