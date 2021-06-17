@@ -25,10 +25,3 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
-  
-  
-defaults:
-  scope:
-    type: "pages"
-  values:
-    layout: "page"
