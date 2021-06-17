@@ -7,21 +7,18 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Geonsu Yoon
+title:            Geonsu Yoo
 tagline:          'cv'
 description:      'online cv'
 url:              http://gs-yoon.github.io
-baseurl:          /
+baseurl:          
 
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-#paginate:         5
-gems: [jekyll-paginate]
-paginate: 5
-paginate_path: "page:num"
+paginate:         5
 
 # Custom vars
 version:          2.1.0
