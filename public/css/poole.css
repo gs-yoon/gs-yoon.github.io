@@ -235,6 +235,12 @@ img {
   border-radius: 5px;
 }
 
+@media (min-width: 30em){
+  img{ 
+    max-width: 15%;
+  }
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
