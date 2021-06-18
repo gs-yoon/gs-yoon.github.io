@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   font-size: 1.8rem; /*modified from 2.0*/
-  clear: both;
+  clear: left;
 }
 h2 {
   margin-top: 1rem;
@@ -107,7 +107,7 @@ h4, h5, h6 {
 
 @media (max-width: 30em){
   h2, h3, h4, h5, h6{
-    clear: both
+    clear: left;
 }
   
   
