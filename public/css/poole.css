@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   font-size: 1.8rem; /*modified from 2.0*/
-  clear: left;
+  clear: both;
 }
 h2 {
   margin-top: 1rem;
@@ -105,6 +105,12 @@ h4, h5, h6 {
   font-size: 1rem;
 }
 
+@media (max-width: 30em){
+  h2, h3, h4, h5, h6{
+    clear: both
+}
+  
+  
 /* Body text */
 p {
   margin-top: 0;
@@ -231,7 +237,7 @@ blockquote p:last-child {
 
 img {
   display: block;
-  max-width: 60%;
+  max-width: 100%;
   height : auto;
   margin: 0 0 1rem;
   border-radius: 5px;
