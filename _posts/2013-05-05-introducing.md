@@ -10,6 +10,6 @@ Kyunghee university - Electric Engineering
 <br>
 <br>
 ### Careere
-　　　Hyndai Mobis (2021.02 ~)
+Hyndai Mobis (2021.02 ~)
  
  <br>
