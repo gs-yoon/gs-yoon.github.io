@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experience
+title: Activities and Experiences
 ---
 
 ### Inteligent Model Car Competetion
