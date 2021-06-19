@@ -18,5 +18,5 @@ title: Experience
 ### Learning Based Kalman Filter
   To automatically determine parmeters of the Kalman filter Using machine learning and convex optimization. In other words, learing parameters of kalmanfiter
 
-\\<!--### Robot Club
+<!--### Robot Club
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.-->
