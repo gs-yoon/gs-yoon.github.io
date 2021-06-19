@@ -290,6 +290,10 @@ tbody tr:nth-child(odd) th {
   padding-inline-start: 0px;
 }
 
+.listdesc {
+  margin-block-end: 0.5em;
+}
+
 /*
  * Messages
  *
