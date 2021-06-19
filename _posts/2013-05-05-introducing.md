@@ -10,6 +10,9 @@ Kyunghee university - Electric Engineering
 <br>
 <br>
 ### Careere
-Hyndai Mobis (2021.02 ~)
- 
+Hyndai Mobis 
+<ul type = none>
+<li>Advanved Assitance Driving Platform SW</li>
+(Feb 2021 ~)
+</ul>
  <br>
