@@ -131,6 +131,7 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+
 dt {
   font-weight: bold;
 }
@@ -275,6 +276,19 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
+/*
+ * Custom list type
+ */
+
+.description {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
 
 /*
  * Messages
