@@ -9,7 +9,7 @@ title: Activities and Experiences
 
 ### Indoor Guide Robot for Visually Impaired Person
   Usinsg ROS, I implemented a indoor guide robot application into mobie robot. 
-  It was designed for impaired person to visit huge building that has severa floors 
+  It was designed for blind person to visit huge building that has severa floors 
   A very short paper was submitted in The 15th Korea Robotics Society Annual Conference (KRoC 2020)
 
 ### In-Memory Computing SRAM with Xnor CNN
