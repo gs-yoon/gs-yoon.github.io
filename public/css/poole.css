@@ -283,7 +283,7 @@ tbody tr:nth-child(odd) th {
 }
 
 /*
- * Custom list type
+ * Custom type
  */
 
 .description {
@@ -295,6 +295,10 @@ tbody tr:nth-child(odd) th {
   margin-inline-end: 0px;
   padding-inline-start: 0px;
   line-height: 1.4rem
+}
+
+.clearedText {
+  clear: both;
 }
 
 @media (max-width: 30em) {
