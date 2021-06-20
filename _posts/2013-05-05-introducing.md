@@ -17,7 +17,7 @@ Hyndai Mobis -->
 
 Interested in siganl processing, image understandidng and visual odometry.
 
-Especially in image understanding, I'm interested in wavele tranfrom. Using wavelete tranform for deep learning would make possible immediate image understanding. So, it must be very usefull in autonomous enviroment.
+Especially in image understanding, I'm interested in wavele tranfrom. Using wavelete tranform for deep learning would make possible immediate image understanding. It must be very usefull in autonomous enviroment. And if apply compressed sensing to this, it will be faster.
 
 <p class=clearedText> </p>
 
