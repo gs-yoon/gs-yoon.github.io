@@ -19,7 +19,7 @@ Hyndai Mobis -->
 <table>
   <tbody>
      <tr>
-      <td colspan = '2'> <h1 id="education">Education</h1></td>
+      <td class = "cellLine", colspan = '2'> <h1 id="education">Education</h1></td>
     </tr>
       <tr>
       <td rowspan = '2'><b>2015 ~ 2020 </b></td>
@@ -33,7 +33,7 @@ Hyndai Mobis -->
       <td>GPA : 3.5/4.5</td>
     </tr>
     <tr>
-      <td colspan = '2'> <h1 id="career">Career</h1> </td>
+      <td class = "cellLine", colspan = '2'> <h1 id="career">Career</h1> </td>
       <td> </td>
     </tr>
     <tr>
