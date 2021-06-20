@@ -1,6 +1,6 @@
 ---
 layout: null
-title: About
+title: Interests
 ---
 
 <p class="message">
