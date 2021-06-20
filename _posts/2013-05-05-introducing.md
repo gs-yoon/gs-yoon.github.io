@@ -22,8 +22,8 @@ Hyndai Mobis -->
       <td class = "cellLine" colspan = '2'> <h1 id="education">Education</h1></td>
     </tr>
       <tr>
-      <td rowspan = '2'><b>2015 ~ 2020 </b></td>
-      <td><b>Kyunghee university</b></td>
+      <td class = "topPaddedCell" rowspan = '2'><b>2015 ~ 2020 </b></td>
+      <td class = "topPaddedCell" ><b>Kyunghee university</b></td>
     </tr>
       <tr>
       <td>Bachelor of Eloctronic Engineering</td>
@@ -37,8 +37,8 @@ Hyndai Mobis -->
       <td> </td>
     </tr>
     <tr>
-      <td rowspan = '2'><b> Sep 2020 ~ Jan 2021 </b></td>
-      <td><b> Resaerch Assitant </b> </td>
+      <td class = "topPaddedCell" rowspan = '2'><b> Sep 2020 ~ Jan 2021 </b></td>
+      <td class = "topPaddedCell" ><b> Resaerch Assitant </b> </td>
     </tr>
       <tr>
       <td>Worked as resaerch assitant on aerospace information system lab investigating control theory and convex optimization</td>
