@@ -12,6 +12,12 @@ Goal of the competition is to design autonomous model car that trace correct lin
 I desinged object detection with image processing and steer controller with stanely method
 
 
+<img src = "https://user-images.githubusercontent.com/57785895/122672393-3ffb4280-d206-11eb-9e8d-1c44e09e85e4.png" width = "20%" height ="20%">
+
+<img src = "https://user-images.githubusercontent.com/57785895/122672323-03c7e200-d206-11eb-88c2-b643210ec317.png" width = "90%" height ="90%">
+
+<img src = "https://user-images.githubusercontent.com/57785895/122672160-0fff6f80-d205-11eb-86a9-d0687071178c.png" width = "75%" height ="75%">
+
 # Indoor Guide Robot for Visually Impaired Person
 <hr width="100%" color="black" size="5">
 
