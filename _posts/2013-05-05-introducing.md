@@ -18,7 +18,7 @@ Hyndai Mobis -->
 
 ### Interested in image understandidng and visual odometry.
 
-Especially in image understanding, I'm interested in wavelet tranfrom. Using wavelet tranform for deep learning would make possible immediate image understanding. So, it must be very usefull in autonomous enviroment. If apply compressed sensing to this, it can be faster.
+Especially in image understanding, I'm interested in wavelet tranform. Using wavelet tranform for deep learning would make possible immediate image understanding. So, it must be very usefull in autonomous enviroment. If apply compressed sensing to this, it can be faster.
 
 For visual odometry, I hope to apply convex optimization. Many parameters of visual odometry (e.g. coefficients of lense distortion, many filters etc.) must be adopted very correctly. Using convex optimization and machine learning, it will be possible to obtain value properly and easily.
 
