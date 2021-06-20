@@ -22,7 +22,7 @@ Hyndai Mobis
 <table>
   <tbody>
        <tr>
-      <th>2015 ~ 2020 　　　 　　　</th>
+      <th>2015 ~ 2020</th>
       <th>Kyunghee university</th>
     </tr>
       <tr>
