@@ -39,8 +39,8 @@ Hyndai Mobis
 <table>
   <thead>
     <tr>
-      <td>Sep 2020 ~ Jan 2021 </td>
-      <td>Resaerch Assitant</td>
+      <td><b> Sep 2020 ~ Jan 2021 </b></td>
+      <td><b> Resaerch Assitant </b> </td>
     </tr>
   </thead>
    <tbody>
@@ -50,8 +50,8 @@ Hyndai Mobis
     </tr>
   <thead>
     <tr>
-      <td>Feb 2021 ~ </td>
-      <td>Hyndai Mobis</td>
+      <td> <b> Feb 2021 ~ </b></td>
+      <td> <b>Hyndai Mobis</b></td>
     </tr>
   </thead>
    <tr>
