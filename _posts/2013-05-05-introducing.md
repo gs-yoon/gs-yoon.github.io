@@ -39,7 +39,6 @@ Hyndai Mobis -->
 <hr width="100%" color="black" size="5">
 <table>
    <tbody>
-
     <tr>
       <td rowspan = '2'><b> Sep 2020 ~ Jan 2021 </b></td>
       <td><b> Resaerch Assitant </b> </td>
