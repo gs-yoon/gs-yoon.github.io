@@ -264,11 +264,11 @@ th {
 /*tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
-}*/
+}
 tbody tr:nth-child(1) td,
 tbody tr:nth-child(5) td{
   border-bottom : 1px solid #303030
-}
+}*/
 
 /*
  * Custom type
