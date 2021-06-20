@@ -15,11 +15,10 @@ Hyndai Mobis -->
 <img src="https://user-images.githubusercontent.com/57785895/122384263-7d619500-cfa6-11eb-8250-ffe4ead91b41.jpg" alt="image" style="float:left">
 ## Geonsu Yoon
 
-Majored in electronic engineering.
+Interested in siganl processing, image understandidng and visual odometry.
 
-Interested in visual odometry, image understandidng.
+Especially in image understanding, I'm interested in wavele tranfrom. Using wavelete tranform for deep learning would make possible immediate image understanding. So, it must be very usefull in autonomous enviroment.
 
-Now working in Advanced Driving Assitance System S/W.
 <p class=clearedText> </p>
 
 <table>
