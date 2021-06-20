@@ -22,11 +22,10 @@ Hyndai Mobis -->
       <td colspan = '2'> <h1 id="education">Education</h1></td>
     </tr>
       <tr>
-      <td><b>2015 ~ 2020 </b></td>
+      <td rowspan = '2'><b>2015 ~ 2020 </b></td>
       <td><b>Kyunghee university</b></td>
     </tr>
       <tr>
-      <td> </td>
       <td>Bachelor of Eloctronic Engineering</td>
     </tr>
     <tr>
