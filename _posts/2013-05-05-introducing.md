@@ -32,7 +32,7 @@ Hyndai Mobis -->
     </tr>
     <tr>
       <td> </td>
-      <td>GPA : 3.5/4.0</td>
+      <td>GPA : 3.5/4.5</td>
     </tr>
     <tr>
       <td> <h3 id="career">Career</h3> </td>
