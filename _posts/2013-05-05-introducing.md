@@ -16,3 +16,33 @@ Hyndai Mobis
 (Feb 2021 ~)
 </ul>
  <br>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>2015 ~ 2020</th>
+      <th>Bachelor of Eloctronic Engineering</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td> </td>
+      <td>Kyunghee university</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td>GPA : 3.5/4.0</td>
+    </tr>
+    <tr>
+      <td>Sep 2020 ~ Jan 2021 </td>
+      <td>Resaerch Assitant</td>
+    </tr>
+    <tr>
+      <td>Feb 2021 ADAS SW Engineer</td>
+      <td>Hyndai Mobis</td>
+    </tr>
+  </tbody>
+</table>
