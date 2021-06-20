@@ -20,13 +20,11 @@ Hyndai Mobis
 <img src="https://user-images.githubusercontent.com/57785895/122384263-7d619500-cfa6-11eb-8250-ffe4ead91b41.jpg" alt="image" style="float:left">
 ### Education
 <table>
-  <thead>
+  <tbody>
        <tr>
       <th>2015 ~ 2020</th>
       <th>Kyunghee university</th>
     </tr>
-  </thead>
-  <tbody>
       <tr>
       <td> </td>
       <td>Bachelor of Eloctronic Engineering</td>
