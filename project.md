@@ -30,7 +30,7 @@ I developed a system accelerate CNN. It was organized with computable SRAM and o
 
 To automatically determine parmeters of the Kalman filter Using machine learning and convex optimization. In other words, learing the parameters of kalmanfiter
 
-Kalman filtering problem of a dynamic system expressed as convex optimization form is below  
+Kalman filtering problem of a dynamic system can be expressed as convex optimization form like below.   
 ![image](https://user-images.githubusercontent.com/57785895/100961621-1595b080-3566-11eb-9f52-dbb18d07e178.png)
 
 
