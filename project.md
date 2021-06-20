@@ -18,7 +18,7 @@ I desinged object detection with image processing and steer controller with stan
 Using ROS, I implemented a indoor guide robot application into mobile robot. 
   It was designed for blind person to visit huge building that has several floors.
   A very short paper was submitted in The 15th Korea Robotics Society Annual Conference (KRoC 2020)
-
+<img src = "https://user-images.githubusercontent.com/57785895/122672101-c747b680-d204-11eb-98a2-559da425baa7.png" width = "35%" height= "35%">
 
 # In-Memory Computing SRAM with Xnor CNN
 <hr width="100%" color="black" size="5">
