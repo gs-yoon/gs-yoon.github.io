@@ -3,30 +3,28 @@ layout: post
 title: Geonsu Yoon
 ---
 
-<img src="https://user-images.githubusercontent.com/57785895/122384263-7d619500-cfa6-11eb-8250-ffe4ead91b41.jpg" alt="image" style="float:left">
+<!-- img src="https://user-images.githubusercontent.com/57785895/122384263-7d619500-cfa6-11eb-8250-ffe4ead91b41.jpg" alt="image" style="float:left">
 
 ### Education
 Kyunghee university - Electric Engineering
 <br>
 <br>
 ### Careere
-Hyndai Mobis 
-<ul type = none>
-<li>Advanved Assitance Driving Platform SW</li>
-(Feb 2021 ~)
-</ul>
- <br>
+Hyndai Mobis -->
 
 <img src="https://user-images.githubusercontent.com/57785895/122384263-7d619500-cfa6-11eb-8250-ffe4ead91b41.jpg" alt="image" style="float:left">
+## Geonsu Yoon
+
 <table>
   <tbody>
      <tr>
-      <td> <h3 id="education">Education</h3></td>
+      <td> <h1 id="education">Education</h1></td>
       <td> </td>
     </tr>
+    <hr width="100%" color="black" size="5">
       <tr>
-      <td>2015 ~ 2020</td>
-      <td>Kyunghee university</td>
+      <td><b>2015 ~ 2020 </b></td>
+      <td><b>Kyunghee university</b></td>
     </tr>
       <tr>
       <td> </td>
@@ -40,6 +38,7 @@ Hyndai Mobis
       <td> <h3 id="career">Career</h3> </td>
       <td> </td>
     </tr>
+    <hr width="100%" color="black" size="5">
     <tr>
       <td rowspan = '2'><b> Sep 2020 ~ Jan 2021 </b></td>
       <td><b> Resaerch Assitant </b> </td>
