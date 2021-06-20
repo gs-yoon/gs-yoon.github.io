@@ -39,11 +39,10 @@ Hyndai Mobis
 <table>
    <tbody>
     <tr>
-      <td rowspan = '2'><b> Sep 2020<br> ~ Jan 2021 </b></td>
+      <td rowspan = '2'><b> Sep 2020 ~ Jan 2021 </b></td>
       <td><b> Resaerch Assitant </b> </td>
     </tr>
       <tr>
-      <td> </td>
       <td>Worked as resaerch assitant on aerospace information system lab investigating control theory and convex optimization</td>
     </tr>
     <tr>
