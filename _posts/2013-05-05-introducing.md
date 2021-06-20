@@ -19,11 +19,17 @@ Hyndai Mobis
 
 <img src="https://user-images.githubusercontent.com/57785895/122384263-7d619500-cfa6-11eb-8250-ffe4ead91b41.jpg" alt="image" style="float:left">
 ### Education
+### career
+
 <table>
   <tbody>
-       <tr>
-      <th>2015 ~ 2020</th>
-      <th>Kyunghee university</th>
+     <tr>
+      <td> <h3 id="education">Education</h3></td>
+      <td> </td>
+    </tr>
+      <tr>
+      <td>2015 ~ 2020</td>
+      <td>Kyunghee university</td>
     </tr>
       <tr>
       <td> </td>
@@ -33,11 +39,10 @@ Hyndai Mobis
       <td> </td>
       <td>GPA : 3.5/4.0</td>
     </tr>
-  </tbody>
-</table>
-### Career
-<table>
-   <tbody>
+    <tr>
+      <td> <h3 id="career">Career</h3> </td>
+      <td> </td>
+    </tr>
     <tr>
       <td rowspan = '2'><b> Sep 2020 ~ Jan 2021 </b></td>
       <td><b> Resaerch Assitant </b> </td>
