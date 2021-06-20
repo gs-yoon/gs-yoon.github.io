@@ -2,9 +2,10 @@
 layout: page
 title: Projects
 ---
+This section describe my projects befor graduate. 
+All of the projects are not related to school lecture.
 
-
-# Intelligent Model Car competition
+## Intelligent Model Car competition
 <hr width="100%" color="black" size="5">
 
 Goal of the competition is to design autonomous model car that trace correct lines and avoid obstacles. 
@@ -15,7 +16,7 @@ I desinged object detection with image processing and steer controller with stan
 <hr width="100%" color="black" size="5">
 
 Using ROS, I implemented a indoor guide robot application into mobile robot. 
-  It was designed for blind person to visit huge building that has several floors 
+  It was designed for blind person to visit huge building that has several floors.
   A very short paper was submitted in The 15th Korea Robotics Society Annual Conference (KRoC 2020)
 
 
