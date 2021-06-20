@@ -6,8 +6,8 @@ title: Activities and Experiences
 # Activities and Experiences
 <hr width="100%" color="black" size="5">
 
-### Inteligent Model Car Competetion
-  Goal of the competetion is to design autonomous model car that trace correct lines and avoid obstacles. 
+### Intelligent Model Car competition
+  Goal of the competition is to design autonomous model car that trace correct lines and avoid obstacles. 
   I desinged object detection with image processing and steer controller with stanely method
 
 ### Indoor Guide Robot for Visually Impaired Person
