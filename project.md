@@ -26,10 +26,29 @@ Using ROS, I implemented a indoor guide robot application into mobile robot.
   A very short paper was submitted in The 15th Korea Robotics Society Annual Conference (KRoC 2020)
 <img src = "https://user-images.githubusercontent.com/57785895/122672101-c747b680-d204-11eb-98a2-559da425baa7.png" width = "35%" height= "35%">
 
+
+
 # In-Memory Computing SRAM with Xnor CNN
 <hr width="100%" color="black" size="5">
 
 I developed a system accelerate CNN. It was organized with computable SRAM and optimized xnor-network CNN.  
+
+![image](https://user-images.githubusercontent.com/57785895/122672672-ca907180-d207-11eb-9151-dd5e3029a643.png)
+
+
+Sequence : Convolution → BatchNormalize → Binarize Input & Weight of other layers
+Activation : tanh (can't use RELU for XNOR NET)
+![image](https://user-images.githubusercontent.com/57785895/122672560-1989d700-d207-11eb-9c7a-a633b143a9e1.png)
+
+
+![image](https://user-images.githubusercontent.com/57785895/122672518-d2034b00-d206-11eb-854b-2a701d50788e.png)
+
+![image](https://user-images.githubusercontent.com/57785895/122672596-4938df00-d207-11eb-9aa8-111f5744af34.png)
+
+![image](https://user-images.githubusercontent.com/57785895/122672631-93ba5b80-d207-11eb-99f4-86e4df5a0fc4.png)
+
+
+![image](https://user-images.githubusercontent.com/57785895/122672608-62da2680-d207-11eb-8cba-6eda388ff9e0.png)
 
 
 # Learning Based Kalman Filter
