@@ -46,12 +46,10 @@ Hyndai Mobis
       <td> </td>
       <td>Worked as resaerch assitant on aerospace information system lab investigating control theory and convex optimization</td>
     </tr>
-  <thead>
     <tr>
       <td> <b> Feb 2021 ~ </b></td>
       <td> <b>Hyndai Mobis</b></td>
     </tr>
-  </thead>
    <tr>
       <td> </td>
       <td>Working as Advanced Driving Assitance System SW engineer</td>
