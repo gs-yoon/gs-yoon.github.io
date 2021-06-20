@@ -256,13 +256,10 @@ table {
   /* border: 1px solid #e5e5e5;
   border-collapse: collapse;*/
 }
-thead {
-  vertical-align: left'
-}
-
 td,
 th {
   padding: .25rem .5rem;
+  text-align: left;
   /*border: 1px solid #e5e5e5;*/
 }
 /*tbody tr:nth-child(odd) td,
