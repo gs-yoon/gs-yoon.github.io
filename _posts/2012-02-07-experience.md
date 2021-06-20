@@ -12,7 +12,7 @@ title: Activities and Experiences
 
 ### Indoor Guide Robot for Visually Impaired Person
   Using ROS, I implemented a indoor guidance application into mobile robot. 
-  It was designed for blind person to visit huge building that has several floors 
+  It was designed for blind person to visit huge building that has several floors. 
   A very short paper was submitted in The 15th Korea Robotics Society Annual Conference (KRoC 2020)
 
 ### In-Memory Computing SRAM with Xnor CNN
