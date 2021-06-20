@@ -19,8 +19,7 @@ Hyndai Mobis -->
 <table>
   <tbody>
      <tr>
-      <td> <h1 id="education">Education</h1></td>
-      <td> </td>
+      <td colspan = '2'> <h1 id="education">Education</h1></td>
     </tr>
       <tr>
       <td><b>2015 ~ 2020 </b></td>
@@ -35,7 +34,7 @@ Hyndai Mobis -->
       <td>GPA : 3.5/4.5</td>
     </tr>
     <tr>
-      <td> <h3 id="career">Career</h3> </td>
+      <td colspan = '2'> <h1 id="career">Career</h1> </td>
       <td> </td>
     </tr>
     <tr>
