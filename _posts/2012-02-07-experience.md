@@ -4,7 +4,7 @@ title: Activities and Experiences
 ---
 
 # Activities and Experiences
-<hr width="100%" color="black" size="5">
+<hr width="100%" color="black" size="1">
 
 ### Intelligent Model Car competition
   Goal of the competition is to design autonomous model car that trace correct lines and avoid obstacles. 
