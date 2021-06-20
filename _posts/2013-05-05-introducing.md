@@ -32,7 +32,7 @@ Now working in Advanced Driving Assitance System S/W.
       <td class = "topPaddedCell" ><b>Kyunghee university</b></td>
     </tr>
       <tr>
-      <td>Bachelor of Eloctronic Engineering</td>
+      <td>Bachelor of Electronic Engineering</td>
     </tr>
     <tr>
       <td> </td>
