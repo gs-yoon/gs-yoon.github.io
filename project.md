@@ -43,6 +43,8 @@ Goal is obtain proper value of **τ** and **Q** using machine learning
 
 
 # Quadruped Spider Robot
+<img src = "https://user-images.githubusercontent.com/57785895/122671822-6ec3e980-d203-11eb-96cf-5beb25e27908.png" width="50%" height="50%">
 
-
+# Blitzcrank Robot
+<img src = "https://user-images.githubusercontent.com/57785895/122671813-62d82780-d203-11eb-8aae-cf9e5e14d6d4.png" width="35%" height="35%">
 
