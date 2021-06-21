@@ -77,14 +77,16 @@ The result formular is following.
 ![image](https://user-images.githubusercontent.com/57785895/122672560-1989d700-d207-11eb-9c7a-a633b143a9e1.png)
 
 ### Mapping to memory
-
+Below image explain how to mapping iamge and weights to memory
 ![image](https://user-images.githubusercontent.com/57785895/122672631-93ba5b80-d207-11eb-99f4-86e4df5a0fc4.png)
 
 
 ### Result
 
+Best accuracy with opimal computable sram is **97.7%** about Mnist handwrite 
 ![image](https://user-images.githubusercontent.com/57785895/122672596-4938df00-d207-11eb-9aa8-111f5744af34.png)
 
+Best accuracy with opimal computable sram is **86.5%** about Mnist fashion
 ![image](https://user-images.githubusercontent.com/57785895/122672608-62da2680-d207-11eb-8cba-6eda388ff9e0.png)
 
 
