@@ -75,8 +75,7 @@ Goal of the competition is to design autonomous model car that trace correct lin
 I desinged object detection with image processing and steer controller with stanely method. There are two key points of my algorithms. 
 First, I had to make own filter for line scan image. It was not able to detect with well-known filters beacuse of exterem noise and very low disparity between lines and not lines. So, I made a filtering model that catch features of line as following formular.
 
-**α** means start pixel to apply filter.
-
+**α** means start pixel to apply filter.<br>
 **β** means end pixel to apply fiter.
 
 <p align="center">
