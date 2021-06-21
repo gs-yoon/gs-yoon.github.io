@@ -59,7 +59,9 @@ First, I had to make own filter for line scan image. It was not able to detect w
 
 **β** means end pixel to apply fiter.
 
+<p align="center">
 <img src = "https://user-images.githubusercontent.com/57785895/122672393-3ffb4280-d206-11eb-9e8d-1c44e09e85e4.png" >
+</p>
 
 Red is raw line scan image. Blue is filtered image.
 <img src = "https://user-images.githubusercontent.com/57785895/122672323-03c7e200-d206-11eb-88c2-b643210ec317.png" width = "90%" height ="90%">
@@ -71,6 +73,7 @@ Secnod point is to adapt stanely method for steering. The formula that I used is
 **Ψ** is angle between direction of movement and tangent line of lane.
 
 **L** is distance between car and lane.
+
 <img src = "https://user-images.githubusercontent.com/57785895/122672160-0fff6f80-d205-11eb-86a9-d0687071178c.png" width = "75%" height ="75%">
 
 # Indoor Guide Robot for Visually Impaired Person
