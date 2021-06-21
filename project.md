@@ -30,11 +30,11 @@ A Kalman filter estimates   <strong>x<sub>t</sub></strong>  by solving the optim
 
 **Problem 1**
 <p align="center">
-![formula of dy](https://user-images.githubusercontent.com/57785895/122758793-2cb6a880-d2d4-11eb-918c-3833247ce5f9.png)
+<img src = "https://user-images.githubusercontent.com/57785895/122758793-2cb6a880-d2d4-11eb-918c-3833247ce5f9.png">
 </p>
 **Problem 2**
 <p align="center">
-![formula of dy 2](https://user-images.githubusercontent.com/57785895/122758803-2f190280-d2d4-11eb-90b7-91cd48cc0545.png)
+<img src = "https://user-images.githubusercontent.com/57785895/122758803-2f190280-d2d4-11eb-90b7-91cd48cc0545.png"
 </p>
 
 Goal is obtain proper value of **τ** and **Q** using machine learning
