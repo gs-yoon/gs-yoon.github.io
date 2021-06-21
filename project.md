@@ -50,16 +50,14 @@ Goal is obtain proper value of **τ** and **Q** using machine learning
  
 ![image](https://user-images.githubusercontent.com/57785895/100963280-63f87e80-3569-11eb-856f-c0785c1e3500.png)
 
-
-![Learning tau](https://user-images.githubusercontent.com/57785895/99908424-ef7e3e00-2d25-11eb-9573-9850b3e8df56.png)
-
+![tau](https://user-images.githubusercontent.com/57785895/122778310-da7f8280-d2e7-11eb-8630-1c2a8c428d45.png)
 
 **result of problem 2 : Learning Q matrix**
 
 
 ![image](https://user-images.githubusercontent.com/57785895/100959769-58ee2000-3562-11eb-8c1f-27387b962be5.png)
- 
-![Learning Q_2](https://user-images.githubusercontent.com/57785895/100187865-5cfbbb80-2f2c-11eb-9ab8-fab581ee8ae5.png)
+
+![QQQ](https://user-images.githubusercontent.com/57785895/122778341-e1a69080-d2e7-11eb-997d-52ba855d7de8.png)
 
 
 ### **Result animation** 
