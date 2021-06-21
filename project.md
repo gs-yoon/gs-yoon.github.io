@@ -46,13 +46,13 @@ Goal is obtain proper value of **τ** and **Q** using machine learning
 
 ### Result
 
-**result of problem 1 : Learning tau**　
+**result of problem 1 : Learning tau**
  
 ![image](https://user-images.githubusercontent.com/57785895/100963280-63f87e80-3569-11eb-856f-c0785c1e3500.png)
 
 ![tau](https://user-images.githubusercontent.com/57785895/122778310-da7f8280-d2e7-11eb-8630-1c2a8c428d45.png)
 
-**result of problem 2 : Learning Q matrix**　
+**result of problem 2 : Learning Q matrix**
 
 
 ![image](https://user-images.githubusercontent.com/57785895/100959769-58ee2000-3562-11eb-8c1f-27387b962be5.png)
