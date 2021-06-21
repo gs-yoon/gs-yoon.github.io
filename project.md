@@ -36,6 +36,7 @@ A Kalman filter estimates   <strong>x<sub>t</sub></strong>  by solving the optim
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/57785895/122758793-2cb6a880-d2d4-11eb-918c-3833247ce5f9.png" alt ="cvxoptform1">
 </p>
+
 **Problem 2**
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/57785895/122758803-2f190280-d2d4-11eb-90b7-91cd48cc0545.png" alt="cvxoptform2">
@@ -43,11 +44,32 @@ A Kalman filter estimates   <strong>x<sub>t</sub></strong>  by solving the optim
 
 Goal is obtain proper value of **τ** and **Q** using machine learning
 
+### Result
+
+**result of problem 1 : Learning tau**
  
-**Result animation** (blue = Groundtruth, orange = estimated position of robot)
+![image](https://user-images.githubusercontent.com/57785895/100963280-63f87e80-3569-11eb-856f-c0785c1e3500.png)
+
+
+![Learning tau](https://user-images.githubusercontent.com/57785895/99908424-ef7e3e00-2d25-11eb-9573-9850b3e8df56.png)
+
+
+**result of problem 2 : Learning Q matrix**
+
+
+![image](https://user-images.githubusercontent.com/57785895/100959769-58ee2000-3562-11eb-8c1f-27387b962be5.png)
+ 
+![Learning Q_2](https://user-images.githubusercontent.com/57785895/100187865-5cfbbb80-2f2c-11eb-9ab8-fab581ee8ae5.png)
+
+
+### **Result animation** 
+blue = Groundtruth
+
+orange = estimated position of robot
+
 ![kf_animaint_1](https://user-images.githubusercontent.com/57785895/99908174-6dd9e080-2d24-11eb-841c-63a924860943.gif)
 
-## Intelligent Model Car competition
+# Intelligent Model Car competition
 <hr width="100%" color="black" size="5">
 
 Goal of the competition is to design autonomous model car that trace correct lines and avoid obstacles. 
