@@ -86,10 +86,8 @@ Red is raw line scan image. Blue is filtered image.
 
 Secnod point is to adapt stanely method for steering. The formula that I used is expressed in below.
 
-**δ** is angle to steer.
-
-**Ψ** is angle between direction of movement and tangent line of lane.
-
+**δ** is angle to steer.<br>
+**Ψ** is angle between direction of movement and tangent line of lane.<br>
 **L** is distance between car and lane.
 
 <img src = "https://user-images.githubusercontent.com/57785895/122672160-0fff6f80-d205-11eb-86a9-d0687071178c.png" width = "75%" height ="75%">
