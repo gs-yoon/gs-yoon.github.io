@@ -8,7 +8,7 @@ All of the projects are not related to school lecture.
 # Learning Based Kalman Filter
 <hr width="100%" color="black" size="5">
 
-To automatically determine parmeters of the Kalman filter Using machine learning and convex optimization. In other words, learing the parameters of kalmanfiter
+To automatically determine parmeters of the Kalman filter Using machine learning and convex optimization. In other words, learing the parameters of kalmanfilter
 
 ### Dynamic System Modeling
 A discrete-time linear dynamical system consists of a sequence of state vectors <strong>x<sub>t</sub> ∈ R<sup>2</sup></strong>  , indexed by time  <strong>t∈{0,…,N−1}</strong>  and dynamics equations
@@ -62,7 +62,7 @@ Goal is obtain proper value of **τ** and **Q** using machine learning
 
 ### **Result animation** 
 **blue** = Groundtruth <br>
-**orange** = estimated position of robot
+**orange** = Estimated position of robot
 
 ![kf_animaint_1](https://user-images.githubusercontent.com/57785895/99908174-6dd9e080-2d24-11eb-841c-63a924860943.gif)
 
@@ -75,7 +75,7 @@ I desinged object detection with image processing and steer controller with stan
 First, I had to make own filter for line scan image. It was not able to detect with well-known filters beacuse of exterem noise and very low disparity between lines and not lines. So, I made a filtering model that catch features of line as following formular.
 
 **α** means start pixel to apply filter.<br>
-**β** means end pixel to apply fiter.
+**β** means end pixel to apply filter.
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/57785895/122672393-3ffb4280-d206-11eb-9e8d-1c44e09e85e4.png" >
@@ -84,7 +84,7 @@ First, I had to make own filter for line scan image. It was not able to detect w
 Red is raw line scan image. Blue is filtered image.
 <img src = "https://user-images.githubusercontent.com/57785895/122672323-03c7e200-d206-11eb-88c2-b643210ec317.png" width = "90%" height ="90%">
 
-Secnod point is to adapt stanely method for steering. The formula that I used is expressed in below.
+Second point is to adapt stanely method for steering. The formula that I used is expressed in below.
 
 **δ** is angle to steer.<br>
 **Ψ** is angle between direction of movement and tangent line of lane.<br>
@@ -108,7 +108,7 @@ It was writed by Dissertation
 
 I developed a system accelerating CNN. It was organized with computable SRAM and optimized xnor-network CNN.
 
-### Coumputable SRAM
+### Computable SRAM
 
 Below image is of computable-SRAM. And I will not describe about hardware anymore. Other sections is explaining SoftWare. 
 
@@ -119,8 +119,8 @@ Below image is of computable-SRAM. And I will not describe about hardware anymor
 ### XNOR NET
 
 I took the  **xnor network** CNN to compute in memory. 
-Xnor-netwokr CNN is comprised of xnor computation. Including weights and input images, all of values  are +1 or -1. It is very efficient to memory computaion.
-Key point is how to quanitze valuse. A formular can be obtaied after many complex calculations. But I will not describe all steps, I'm just showing the result.
+Xnor-network CNN is comprised of xnor computation. Including weights and input images, all of values  are +1 or -1. It is very efficient to memory computaion.
+Key point is how to quantize values. A formular can be obtained after many complex calculations. But I will not describe all steps, I'm just showing the result.
 The result formular is following.
 
 ![image](https://user-images.githubusercontent.com/57785895/122761471-3db4e900-d2d7-11eb-9dd6-253a834bfcf4.png)
