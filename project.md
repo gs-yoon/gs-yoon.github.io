@@ -86,13 +86,14 @@ First, I had to make own filter for line scan image. It was not able to detect w
 <span style="color:red">Red is raw line scan image.</span> <span style="color:blue">Blue is filtered image.</span>
 <img src = "https://user-images.githubusercontent.com/57785895/122672323-03c7e200-d206-11eb-88c2-b643210ec317.png" width = "90%" height ="90%">
 
+
 Second point is to adapt stanely method for steering. The formula that I used is expressed in below.
 
 **δ** is angle to steer.<br>
 **Ψ** is angle between direction of movement and tangent line of lane.<br>
 **L** is distance between car and lane.
 
-<img src = "https://user-images.githubusercontent.com/57785895/122672160-0fff6f80-d205-11eb-86a9-d0687071178c.png" width = "75%" height ="75%">
+![stanely](https://user-images.githubusercontent.com/57785895/122923723-f0507e80-d39f-11eb-8ea7-c530278923f9.png)
 
 # Indoor Guide Robot for Visually Impaired Person
 <hr width="100%" color="black" size="5">
@@ -101,7 +102,6 @@ Using ROS, I implemented a indoor guide robot application into mobile robot.
   It was designed for blind person to visit huge building that has several floors.
   A very short paper was submitted in The 15th Korea Robotics Society Annual Conference (KRoC 2020)
 <img src = "https://user-images.githubusercontent.com/57785895/122672101-c747b680-d204-11eb-98a2-559da425baa7.png" width = "35%" height= "35%">
-
 
 
 # In-Memory Computing SRAM with Xnor CNN
