@@ -29,6 +29,8 @@ Then the following matrices the above dynamics.
 </p>
 
 
+### Solving Equations
+
 Kalman filtering problem of a dynamic system can be expressed as convex optimization form 
 A Kalman filter estimates   <strong>x<sub>t</sub></strong>  by solving the optimization problems with some tuning parameters **τ** or **Q**
 
@@ -42,7 +44,7 @@ A Kalman filter estimates   <strong>x<sub>t</sub></strong>  by solving the optim
 <img src = "https://user-images.githubusercontent.com/57785895/122758803-2f190280-d2d4-11eb-90b7-91cd48cc0545.png" alt="cvxoptform2">
 </p>
 
-Goal is obtain proper value of **τ** and **Q** using machine learning
+Proper value of **τ** and **Q** can be obtained with convex optimazation and machine learning. I used cvxpy and cvxpylayers that is python libraries to solve this problem. So, the result is shown as following.
 
 ### Result
 
@@ -61,8 +63,8 @@ Goal is obtain proper value of **τ** and **Q** using machine learning
 
 
 ### **Result animation** 
-**blue** = Groundtruth <br>
-**orange** = Estimated position of robot
+<span style="color:blue">**blue**</span> = Groundtruth <br>
+<span style="color:orange">**orange**</span> = Estimated position of robot
 
 ![kf_animaint_1](https://user-images.githubusercontent.com/57785895/99908174-6dd9e080-2d24-11eb-841c-63a924860943.gif)
 
@@ -80,8 +82,7 @@ First, I had to make own filter for line scan image. It was not able to detect w
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/57785895/122672393-3ffb4280-d206-11eb-9e8d-1c44e09e85e4.png" >
 </p>
-
-Red is raw line scan image. Blue is filtered image.
+<span style="color:red">Red</span> is raw line scan image. <span style="color:blue">Blue</span> is filtered image.
 <img src = "https://user-images.githubusercontent.com/57785895/122672323-03c7e200-d206-11eb-88c2-b643210ec317.png" width = "90%" height ="90%">
 
 Second point is to adapt stanely method for steering. The formula that I used is expressed in below.
