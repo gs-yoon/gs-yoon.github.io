@@ -80,14 +80,8 @@ First, I had to make own filter for line scan image. It was not able to detect w
 **β** means end pixel to apply filter.
 
 <p align="center">
-<img alt="sigma" src="https://user-images.githubusercontent.com/57785895/122915065-4d473700-d396-11eb-80f8-b90280b7ceeb.png">
-</p>
-
 <img alt="sigma_s" src="https://user-images.githubusercontent.com/57785895/122916840-4b7e7300-d398-11eb-9cbd-eecc88ec80dd.png">
-
-
-![image](https://user-images.githubusercontent.com/57785895/122916676-1bcf6b00-d398-11eb-8335-6420b840e19e.png)
-
+</p>
 
 <span style="color:red">Red is raw line scan image.</span> <span style="color:blue">Blue is filtered image.</span>
 <img src = "https://user-images.githubusercontent.com/57785895/122672323-03c7e200-d206-11eb-88c2-b643210ec317.png" width = "90%" height ="90%">
