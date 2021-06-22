@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-This section describe my projects befor graduate. 
+This page describe my projects befor graduate. 
 All of the projects are not related to school lecture.
 
 # Learning Based Kalman Filter
@@ -63,8 +63,8 @@ Proper value of **τ** and **Q** can be obtained with convex optimazation and ma
 
 
 ### **Result animation** 
-<span style="color:blue">**blue**</span> = Groundtruth <br>
-<span style="color:orange">**orange**</span> = Estimated position of robot
+<span style="color:blue">blue = Groundtruth</span> <br>
+<span style="color:orange">orange = Estimated position of robot</span>
 
 ![kf_animaint_1](https://user-images.githubusercontent.com/57785895/99908174-6dd9e080-2d24-11eb-841c-63a924860943.gif)
 
@@ -80,9 +80,10 @@ First, I had to make own filter for line scan image. It was not able to detect w
 **β** means end pixel to apply filter.
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/57785895/122672393-3ffb4280-d206-11eb-9e8d-1c44e09e85e4.png" >
+<img alt="sigma" src="https://user-images.githubusercontent.com/57785895/122915065-4d473700-d396-11eb-80f8-b90280b7ceeb.png">
 </p>
-<span style="color:red">Red</span> is raw line scan image. <span style="color:blue">Blue</span> is filtered image.
+
+<span style="color:red">Red is raw line scan image.</span> <span style="color:blue">Blue is filtered image.</span>
 <img src = "https://user-images.githubusercontent.com/57785895/122672323-03c7e200-d206-11eb-88c2-b643210ec317.png" width = "90%" height ="90%">
 
 Second point is to adapt stanely method for steering. The formula that I used is expressed in below.
@@ -156,8 +157,11 @@ Best accuracy with opimal computable sram is **86.5%** about Mnist fashion
 
 
 # Quadruped Spider Robot
+I made the robot to display in my robot club's exhibition
+
 <img src = "https://user-images.githubusercontent.com/57785895/122671822-6ec3e980-d203-11eb-96cf-5beb25e27908.png" width="50%" height="50%">
 
 # Blitzcrank Robot
+I made the robot for kyunghee SW Festival.
 <img src = "https://user-images.githubusercontent.com/57785895/122671813-62d82780-d203-11eb-8aae-cf9e5e14d6d4.png" width="35%" height="35%">
 
