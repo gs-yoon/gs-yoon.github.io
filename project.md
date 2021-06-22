@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 This page describe my projects befor graduate. 
-All of the projects are not related to school lecture.
+All of the projects are not performed in school lecture.
 
 # Learning Based Kalman Filter
 <hr width="100%" color="black" size="5">
