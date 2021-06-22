@@ -106,7 +106,7 @@ Using ROS, I implemented a indoor guide robot application into mobile robot.
 
 # In-Memory Computing SRAM with Xnor CNN
 <hr width="100%" color="black" size="5">
-It was writed by Dissertation
+It was written for Dissertation
 
 I developed a system accelerating CNN. It was organized with computable SRAM and optimized xnor-network CNN.
 
