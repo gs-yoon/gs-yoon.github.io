@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-This page describe my projects befor graduate. 
+This page describes my projects befor graduate. 
 All of the projects are not performed in school lecture.
 
 # Learning Based Kalman Filter
