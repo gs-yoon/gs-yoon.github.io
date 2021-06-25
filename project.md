@@ -2,13 +2,13 @@
 layout: page
 title: Projects
 ---
-This page describes my projects befor graduate. 
-All of the projects are not performed in school lecture.
+This page describes my projects before graduate.
+All of the projects are not performed in school lectures.
 
 # Learning Based Kalman Filter
 <hr width="100%" color="black" size="5">
 
-To automatically determine parmeters of the Kalman filter Using machine learning and convex optimization. In other words, learing the parameters of kalmanfilter
+To automatically determine parameters of the Kalman filter Using machine learning and convex optimization. In other words, learning the parameters of the Kalman filter
 
 ### Dynamic System Modeling
 A discrete-time linear dynamical system consists of a sequence of state vectors <strong>x<sub>t</sub> ∈ R<sup>2</sup></strong>  , indexed by time  <strong>t∈{0,…,N−1}</strong>  and dynamics equations
@@ -44,7 +44,7 @@ A Kalman filter estimates   <strong>x<sub>t</sub></strong>  by solving the optim
 <img src = "https://user-images.githubusercontent.com/57785895/122758803-2f190280-d2d4-11eb-90b7-91cd48cc0545.png" alt="cvxoptform2">
 </p>
 
-Proper value of **τ** and **Q** can be obtained with convex optimazation and machine learning. I used cvxpy and cvxpylayers that is python libraries to solve this problem. So, the result is shown as following.
+The proper value of **τ** and **Q** can be obtained with convex optimization  and machine learning. I used cvxpy and cvxpylayers that are python libraries to solve this problem. So, the result is shown as follows.
 
 ### Result
 
@@ -71,10 +71,10 @@ Proper value of **τ** and **Q** can be obtained with convex optimazation and ma
 # Intelligent Model Car competition
 <hr width="100%" color="black" size="5">
 
-Goal of the competition is to design autonomous model car that trace correct lines and avoid obstacles. 
+The goal of the competition is to design autonomous model car that traces correct lines and avoid obstacles. 
 
-I desinged object detection with image processing and steer controller with stanely method. There are two key points of my algorithms. 
-First, I had to make own filter for line scan image. It was not able to detect with well-known filters beacuse of exterem noise and very low disparity between lines and not lines. So, I made a filtering model that catch features of line as following formular.
+I designed object detection with image processing and steering controller with the Stanely method. There are two key points of my algorithms. 
+First, I had to make my own filter for line scan image. It was not able to detect with well-known filters because of extreme noise and the very low disparity between lines and not lines. So, I made a filtering model that catches features of the line as the following formula.
 
 **α** means start pixel to apply filter.<br>
 **β** means end pixel to apply filter.
@@ -87,7 +87,7 @@ First, I had to make own filter for line scan image. It was not able to detect w
 <img src = "https://user-images.githubusercontent.com/57785895/122672323-03c7e200-d206-11eb-88c2-b643210ec317.png" width = "90%" height ="90%">
 
 
-Second point is to adapt stanely method for steering. The formula that I used is expressed in below.
+The second point is to adapt the Stanely method for steering. The formula that I used is expressed in below.
 
 **δ** is angle to steer.<br>
 **Ψ** is angle between direction of movement and tangent line of lane.<br>
@@ -98,9 +98,9 @@ Second point is to adapt stanely method for steering. The formula that I used is
 # Indoor Guide Robot for Visually Impaired Person
 <hr width="100%" color="black" size="5">
 
-Using ROS, I implemented a indoor guide robot application into mobile robot. 
-  It was designed for blind person to visit huge building that has several floors.
-  A very short paper was submitted in The 15th Korea Robotics Society Annual Conference (KRoC 2020)
+Using ROS, I implemented an indoor guide robot application into a mobile robot. 
+  It was designed for blind people to visit a huge building that has several floors.
+  A very short paper was submitted at The 15th Korea Robotics Society Annual Conference (KRoC 2020)
 <img src = "https://user-images.githubusercontent.com/57785895/122672101-c747b680-d204-11eb-98a2-559da425baa7.png" width = "35%" height= "35%">
 
 
@@ -112,17 +112,17 @@ I developed a system accelerating CNN. It was organized with computable SRAM and
 
 ### Computable SRAM
 
-Below image is of computable-SRAM. And I will not describe about hardware anymore. Other sections is explaining SoftWare. 
+The below image is of computable-SRAM. And I will not describe hardware anymore. Other sections are explaining SoftWare. 
 
 ![image](https://user-images.githubusercontent.com/57785895/122672672-ca907180-d207-11eb-9151-dd5e3029a643.png)
 
-**Below section is about software.**
+**The below section is about software.**
 
 ### XNOR NET
 
 I took the  **xnor network** CNN to compute in memory. 
-Xnor-network CNN is comprised of xnor computation. Including weights and input images, all of values  are +1 or -1. It is very efficient to memory computaion.
-Key point is how to quantize values. A formular can be obtained after many complex calculations. But I will not describe all steps, I'm just showing the result.
+Xnor-network CNN is comprised of xnor computation. Including weights and input images, all of values  are +1 or -1. It is very efficient for memory computation.
+The key point is how to quantize values. A formula can be obtained after many complex calculations. But I will not describe all steps, I'm just showing the result.
 The result formular is following.
 
 ![image](https://user-images.githubusercontent.com/57785895/122761471-3db4e900-d2d7-11eb-9dd6-253a834bfcf4.png)
@@ -146,10 +146,10 @@ Following image explain how to mapping iamge and weights to memory. Data is mapp
 
 ### Result
 
-Best accuracy with opimal computable sram is **97.7%** about Mnist handwrite 
+Best accuracy with optimal computable SRAM is **97.7%** about Mnist handwrite 
 ![image](https://user-images.githubusercontent.com/57785895/122672596-4938df00-d207-11eb-9aa8-111f5744af34.png)
 
-Best accuracy with opimal computable sram is **86.5%** about Mnist fashion
+Best accuracy with optimal computable SRAM is **86.5%** about Mnist fashion
 ![image](https://user-images.githubusercontent.com/57785895/122672608-62da2680-d207-11eb-8cba-6eda388ff9e0.png)
 
 
