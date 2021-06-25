@@ -9,9 +9,9 @@ permalink:        pretty
 # Setup
 title:            Geonsu Yoon
 tagline:          
-description:      'Majored in electronic engineering.'
-description2:     'Interested in visual odometry, image understandidng.'
-description3:     'Now working in Advanced Driving Assitance System S/W'
+description3:     'Now working in Advanced Driving Assistance System S/W'
+description2:     'Interested in Visual Odometry, Image Understanding.'
+description:      'Majored in Electronic Engineering.'
 url:              http://gs-yoon.github.io
 baseurl:          
 
