@@ -19,3 +19,10 @@ Given for excellent performance in Intelligent Model Car Competition, by Hanyang
 <div class="message">
 Given for excellent performance in development with open-source, by Ministry of Science and ICT, Ministry of National Defense 
 </div>
+
+
+
+# Skills
+<hr width="100%" color="black" size="5">
+![image](https://user-images.githubusercontent.com/57785895/125151059-6534fe00-e17f-11eb-8f4e-0f82e9f4d336.png)
+
