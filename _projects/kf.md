@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: kf
 ---
 This page describes my projects before graduate.
