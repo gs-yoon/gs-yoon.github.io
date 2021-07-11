@@ -1,3 +1,7 @@
+---
+layout: page
+title: inteligent_modelcar
+---
 # Intelligent Model Car competition
 <hr width="100%" color="black" size="5">
 
