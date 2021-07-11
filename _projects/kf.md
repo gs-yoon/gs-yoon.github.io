@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: kf
 ---
 This page describes my projects before graduate.
 All of the projects are not performed in school lectures.
