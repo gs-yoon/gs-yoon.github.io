@@ -1,6 +1,6 @@
 ---
 layout: page
-title: indoor_guid_robot
+title: Indoor Guide Robot for Visually Impaired Person
 ---
 # Indoor Guide Robot for Visually Impaired Person
 <hr width="100%" color="black" size="5">
