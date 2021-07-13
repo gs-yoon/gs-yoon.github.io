@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cim_sram
+title: In-Memory Computing SRAM with Xnor CNN
 ---
 
 # In-Memory Computing SRAM with Xnor CNN
