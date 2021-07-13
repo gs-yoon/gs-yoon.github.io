@@ -9,13 +9,15 @@ All of the projects are not performed in school lectures.
 # Learning Based Kalman Filter
 <hr width="100%" color="black" size="5">
 
-![kf_animaint_1](https://user-images.githubusercontent.com/57785895/99908174-6dd9e080-2d24-11eb-841c-63a924860943.gif)
+<img src = "https://user-images.githubusercontent.com/57785895/99908174-6dd9e080-2d24-11eb-841c-63a924860943.gif" alt=kf_animation_1 style="float:left">
 
 <span style="color:blue">blue = Groundtruth</span> <br>
 <span style="color:orange">orange = Estimated position of robot</span>
 
 To automatically determine parameters of the Kalman filter Using machine learning and convex optimization. In other words, learning the parameters of the Kalman filter
 
+More
+<p class=clearedText> </p>
 
 # Intelligent Model Car competition
 <hr width="100%" color="black" size="5">
