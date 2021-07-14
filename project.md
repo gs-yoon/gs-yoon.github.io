@@ -2,8 +2,8 @@
 layout: page
 title: Projects
 
-youtubeId: 16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/view?usp=sharing
 ---
+<!--youtubeId: 16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/view?usp=sharing-->
 This page describes my projects before graduate.
 All of the projects are not performed in school lectures.
 
@@ -32,7 +32,7 @@ Include this next line in your .md file for Google Drive videos, make sure to pu
 Example:     driveId: 0B7L_dMcaZknxVTRndmdSQ0F5OFE/preview
 -->
 
-{% include googleDrivePlayer.html id=page.driveId %
+{% include googleDrivePlayer.html id=16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/view?usp=sharing %
 
 
 The goal of the competition is to design autonomous model car that traces correct lines and avoid obstacles. 
