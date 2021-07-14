@@ -102,6 +102,7 @@ To implement internal calculation in SRAM, this xnor-network CNN is comprised of
 <a href="{{ site.baseurl}}/sram/"> More </a>
 
 <p class=clearedText> </p>
+
 # Quadruped Spider Robot
 I made the robot to display in my robot club's exhibition
 
