@@ -1,6 +1,6 @@
 ---
-layout: page
-title: inteligent_modelcar
+layout: default
+title: Intelligent Model Car competition
 ---
 # Intelligent Model Car competition
 <hr width="100%" color="black" size="5">
