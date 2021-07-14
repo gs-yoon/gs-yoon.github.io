@@ -11,5 +11,5 @@ Using ROS, I implemented an indoor guide robot application into a mobile robot.
 <img src = "https://user-images.githubusercontent.com/57785895/122672101-c747b680-d204-11eb-98a2-559da425baa7.png" width = "35%" height= "35%">
 
 <!--iframe width ="640" hegiht="480" src="https://drive.google.com/file/d/1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU/preview" frameborder="0" allowfullscreen=""-->
-<video class="mvideo" style="float:left; margin-right:2.0em" controls src="https://drive.google.com/uc?export=download&id=1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU" frameborder="0" allowfullscreen="">
+<video class="mvideoNarrow" style="float:left; margin-right:2.0em" controls src="https://drive.google.com/uc?export=download&id=1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU" frameborder="0" allowfullscreen="">
 </video>
