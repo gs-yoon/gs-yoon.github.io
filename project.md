@@ -42,10 +42,8 @@ First, I had to make my own filter for line scan image. It was not able to detec
 <iframe style="float:left; margin-right:2.0em" src="https://drive.google.com/file/d/1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR/preview" frameborder="0" allowfullscreen="">
 </iframe>
 
-　It is aricraft detection without machine learning.
- 
-Classical image processing is applied.
-
+　It is aricraft detection without machine learning.<br>
+Classical image processing is applied.<br>
 Canny Edge and Feature Extraction is mainely used.
 
 <p class=clearedText> </p>
@@ -56,33 +54,28 @@ Canny Edge and Feature Extraction is mainely used.
 <iframe width="480" height="360" style="float:left; margin-right:2.0em" src="https://drive.google.com/file/d/1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU/preview" frameborder="0" allowfullscreen="">
 </iframe>
 
-　Using ROS, I implemented an indoor guide robot application into a mobile robot with cartographer SLAM
- 
-It was designed for blind people to visit a huge building that has several floors.
-
+　Using ROS, I implemented an indoor guide robot application into a mobile robot with cartographer SLAM. <br>
+It was designed for blind people to visit a huge building that has several floors.<br>
 A very short paper was submitted at The 15th Korea Robotics Society Annual Conference (KRoC 2020)
   
 <!--img src = "https://user-images.githubusercontent.com/57785895/122672101-c747b680-d204-11eb-98a2-559da425baa7.png" width = "35%" height= "35%"-->
 
 <p class=clearedText> </p>
 
-
 # In-Memory Computing SRAM with Xnor CNN
 <hr width="100%" color="black" size="5">
-It was written for Dissertation
 
-I developed a system accelerating CNN. It was implemented with computable SRAM and optimized xnor-network CNN.
+<img src="https://user-images.githubusercontent.com/57785895/122672672-ca907180-d207-11eb-9151-dd5e3029a643.png" alt="image" width="500" style="float:left">
+<img src="https://user-images.githubusercontent.com/57785895/122672560-1989d700-d207-11eb-9c7a-a633b143a9e1.png" alt="image" width="500" style="float:left")
 
-![image](https://user-images.githubusercontent.com/57785895/122672672-ca907180-d207-11eb-9151-dd5e3029a643.png)
-![image](https://user-images.githubusercontent.com/57785895/122672560-1989d700-d207-11eb-9c7a-a633b143a9e1.png)
-
-The first image is a cell of the computable-SRAM. It can do xnor computation to operate CNN.
-
+It was written for Dissertation <br>
+I developed a system accelerating CNN. It was implemented with computable SRAM and optimized xnor-network CNN.<br>
+The first image is a cell of the computable-SRAM. It can do xnor computation to operate CNN.<br>
 The second image is XNOR-CNN netwokr for Computable-SRAM.
 My main part is to implement the network.
 To implement internal calculation in SRAM, this xnor-network CNN is comprised of xnor computation. All values of weights and input images are quantized to +1 or -1. And the valuse are mapped to memory with differnt method from common. 
 
-
+<p class=clearedText> </p>
 # Quadruped Spider Robot
 I made the robot to display in my robot club's exhibition
 
