@@ -29,10 +29,10 @@ To automatically determine parameters of the Kalman filter Using machine learnin
 </h1>
 <hr width="100%" color="black" size="5">
 
-<video class = "mvideo" style="float:left; margin-right:2px" src="https://drive.google.com/uc?export=download&id=16QfK1wCPetp34UF6whwQUNx0rrHLa6rU" frameborder="0" allowfullscreen="">
+<video class = "mvideo" style="float:left; controls autoplay margin-right:2px" src="https://drive.google.com/uc?export=download&id=16QfK1wCPetp34UF6whwQUNx0rrHLa6rU" frameborder="0" allowfullscreen="">
 </video>
 
-<video class = "mvideo" style="float:left" src="https://drive.google.com/uc?export=download&id=1Ds5f1gfT0gVwPCYufanFA7me8Jjs1t9R" frameborder="0" allowfullscreen="">
+<video class = "mvideo" style="float:left" controls autoplay src="https://drive.google.com/uc?export=download&id=1Ds5f1gfT0gVwPCYufanFA7me8Jjs1t9R" frameborder="0" allowfullscreen="">
 </video>
 
 <p class=clearedText> </p>
@@ -51,7 +51,7 @@ First, I had to make my own filter for line scan image. It was not able to detec
 <!--iframe class = mvideo style="float:left; margin-right:2.0em display:block" controls src="https://drive.google.com/file/d/1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR/preview" frameborder="0" allowfullscreen="">
 </iframe-->
 
-<video class="mvideo" style="float:left; margin-right:2.0em" controls src="https://drive.google.com/uc?export=download&id=1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR" frameborder="0" allowfullscreen="">
+<video class="mvideo" style="float:left; margin-right:2.0em" controls autoplay src="https://drive.google.com/uc?export=download&id=1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR/preview" frameborder="0" allowfullscreen="">
 </video>
 
 
@@ -68,7 +68,7 @@ Canny Edge and Feature Extraction is mainely used.
 </h1>
 <hr width="100%" color="black" size="5">
 
-<video class="mvideo" style="float:left; margin-right:2.0em" src="https://drive.google.com/uc?export=download&id=1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU" frameborder="0" allowfullscreen="">
+<video class="mvideo" style="float:left; margin-right:2.0em" controls autoplay src="https://drive.google.com/uc?export=download&id=1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU" frameborder="0" allowfullscreen="">
 </video>
 
 Using ROS, I implemented an indoor guide robot application into a mobile robot with cartographer SLAM. <br>
