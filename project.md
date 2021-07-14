@@ -23,7 +23,11 @@ To automatically determine parameters of the Kalman filter Using machine learnin
 <a href="{{ site.baseurl}}/kf/"> More </a>
 <p class=clearedText> </p>
 
-# Intelligent Model Car competition
+<h1 class="post-title">
+  <a href="{{ site.baseurl}}/autocar/">
+    Intelligent Model Car competition
+  </a>
+</h1>
 <hr width="100%" color="black" size="5">
 
 <iframe width="480" height="360" style="float:left; margin-right:2px" src="https://drive.google.com/file/d/16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/preview" frameborder="0" allowfullscreen="">
@@ -37,7 +41,7 @@ To automatically determine parameters of the Kalman filter Using machine learnin
 The goal of the competition is to design autonomous model car that traces correct lines and avoid obstacles. 
 
 I designed object detection with image processing and steering controller with the Stanely method. There are two key points of my algorithms. 
-First, I had to make my own filter for line scan image. It was not able to detect with well-known filters because of extreme noise and the very low disparity between lines and not lines. So, I mainley made a filtering model that catches features of the line as the following formula. A following image is the result of filtering.
+First, I had to make my own filter for line scan image. It was not able to detect with well-known filters because of extreme noise and the very low disparity between lines and not lines. So, I mainley made a filtering model that catches features of the line as the following formula. A following image is the result of filtering. 　<a href="{{ site.baseurl}}/autocar/" More </a>
 
 <span style="color:red">Red is raw line scan image.</span> <span style="color:blue">Blue is filtered image.</span>
 <img src = "https://user-images.githubusercontent.com/57785895/122672323-03c7e200-d206-11eb-88c2-b643210ec317.png" width = "80%" height ="90%">
@@ -53,7 +57,11 @@ Canny Edge and Feature Extraction is mainely used.
 
 <p class=clearedText> </p>
 
-# Indoor Guide Robot for Visually Impaired Person
+<h1 class="post-title">
+  <a href="{{ site.baseurl}}/autocar/">
+    Indoor Guide Robot for Visually Impaired Person
+  </a>
+</h1>
 <hr width="100%" color="black" size="5">
 
 <iframe width="480" height="360" style="float:left; margin-right:2.0em" src="https://drive.google.com/file/d/1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU/preview" frameborder="0" allowfullscreen="">
@@ -62,12 +70,18 @@ Canny Edge and Feature Extraction is mainely used.
 　Using ROS, I implemented an indoor guide robot application into a mobile robot with cartographer SLAM. <br>
 It was designed for blind people to visit a huge building that has several floors.<br>
 A very short paper was submitted at The 15th Korea Robotics Society Annual Conference (KRoC 2020)
-  
+
+
+<a href="{{ site.baseurl}}/autocar/"> More </a>
 <!--img src = "https://user-images.githubusercontent.com/57785895/122672101-c747b680-d204-11eb-98a2-559da425baa7.png" width = "35%" height= "35%"-->
 
 <p class=clearedText> </p>
 
-# In-Memory Computing SRAM with Xnor CNN
+<h1 class="post-title">
+  <a href="{{ site.baseurl}}/sram/">
+    In-Memory Computing SRAM with Xnor CNN
+  </a>
+</h1>
 <hr width="100%" color="black" size="5">
 
 <img src="https://user-images.githubusercontent.com/57785895/122672672-ca907180-d207-11eb-9151-dd5e3029a643.png" alt="image" width="500" style="float:left">
@@ -79,6 +93,8 @@ The first image is a cell of the computable-SRAM. It can do xnor computation to 
 The second image is XNOR-CNN netwokr for Computable-SRAM.
 My main part is to implement the network.
 To implement internal calculation in SRAM, this xnor-network CNN is comprised of xnor computation. All values of weights and input images are quantized to +1 or -1. And the valuse are mapped to memory with differnt method from common. 
+
+<a href="{{ site.baseurl}}/sram/"> More </a>
 
 <p class=clearedText> </p>
 # Quadruped Spider Robot
