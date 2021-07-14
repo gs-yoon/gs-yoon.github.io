@@ -15,7 +15,7 @@ All of the projects are not performed in school lectures.
 
 To automatically determine parameters of the Kalman filter Using machine learning and convex optimization. In other words, learning the parameters of the Kalman filter
 
-More
+<a href="{{ site.baseurl}}/project/"> More </a>
 <p class=clearedText> </p>
 
 # Intelligent Model Car competition
