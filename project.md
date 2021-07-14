@@ -19,8 +19,14 @@ To automatically determine parameters of the Kalman filter Using machine learnin
 More
 <p class=clearedText> </p>
 
+
 # Intelligent Model Car competition
 <hr width="100%" color="black" size="5">
+
+<video src ="video/hy-1.mp4"  controls autoplay>
+<strong>Your browser does not support the video tag.</strong>
+</video>
+
 
 The goal of the competition is to design autonomous model car that traces correct lines and avoid obstacles. 
 
