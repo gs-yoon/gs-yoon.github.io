@@ -6,7 +6,12 @@ title: Projects
 This page describes my projects before graduate.
 All of the projects are not performed in school lectures.
 
-# Learning Based Kalman Filter
+<h1 class="post-title">
+  <a href="{{ site.baseurl}}/kf/">
+    Learning Based Kalman Filter
+  </a>
+</h1>
+
 <hr width="100%" color="black" size="5">
 
 <span style="color:blue">blue = Groundtruth</span>
@@ -15,7 +20,7 @@ All of the projects are not performed in school lectures.
 
 To automatically determine parameters of the Kalman filter Using machine learning and convex optimization. In other words, learning the parameters of the Kalman filter
 
-<a href="{{ site.baseurl}}/project/"> More </a>
+<a href="{{ site.baseurl}}/kf/"> More </a>
 <p class=clearedText> </p>
 
 # Intelligent Model Car competition
