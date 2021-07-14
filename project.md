@@ -29,11 +29,10 @@ More
   <iframe width="640" height="480" src="https://drive.google.com/file/d/16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/preview" frameborder="0" allowfullscreen="">
   </iframe>
 </div>
+
 <iframe width="640" height="480">
   <source="https://drive.google.com/file/d/1Ds5f1gfT0gVwPCYufanFA7me8Jjs1t9R/preview" frameborder="0" allowfullscreen="">
 </iframe>
-
-{% include googleDrivePlayer.html id= 1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU/preview %}
 
 The goal of the competition is to design autonomous model car that traces correct lines and avoid obstacles. 
 
