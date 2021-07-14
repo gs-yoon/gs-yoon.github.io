@@ -67,7 +67,7 @@ Canny Edge and Feature Extraction is mainely used.
 </h1>
 <hr width="100%" color="black" size="5">
 
-<video class="mvideo" style="float:left; margin-right:2.0em" controls autoplay src="https://drive.google.com/uc?export=download&id=1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU" frameborder="0" allowfullscreen="">
+<video class="mvideo" style="float:left; margin-right:2.0em" controls src="https://drive.google.com/uc?export=download&id=1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU" frameborder="0" allowfullscreen="">
 </video>
 
 Using ROS, I implemented an indoor guide robot application into a mobile robot with cartographer SLAM. <br>
