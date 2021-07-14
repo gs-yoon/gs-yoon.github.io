@@ -29,10 +29,10 @@ To automatically determine parameters of the Kalman filter Using machine learnin
 </h1>
 <hr width="100%" color="black" size="5">
 
-<iframe width="480" height="360" style="float:left; margin-right:2px" src="https://drive.google.com/file/d/16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/preview" frameborder="0" allowfullscreen="">
+<iframe height="100%" style="float:left; margin-right:2px" src="https://drive.google.com/file/d/16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/preview" frameborder="0" allowfullscreen="">
 </iframe>
 
-<iframe width="480" height="360" style="float:left" src="https://drive.google.com/file/d/1Ds5f1gfT0gVwPCYufanFA7me8Jjs1t9R/preview" frameborder="0" allowfullscreen="">
+<iframe height="100%" style="float:left" src="https://drive.google.com/file/d/1Ds5f1gfT0gVwPCYufanFA7me8Jjs1t9R/preview" frameborder="0" allowfullscreen="">
 </iframe>
 
 <p class=clearedText> </p>
@@ -48,7 +48,7 @@ First, I had to make my own filter for line scan image. It was not able to detec
 
 # Aircraft Detection
 <hr width="100%" color="black" size="5">
-<iframe width="100%" height="100%" style="float:left; margin-right:2.0em" src="https://drive.google.com/file/d/1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR/preview" frameborder="0" allowfullscreen="">
+<iframe height="100%" style="float:left; margin-right:2.0em" src="https://drive.google.com/file/d/1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR/preview" frameborder="0" allowfullscreen="">
 </iframe>
 
 It is aricraft detection without machine learning.<br>
