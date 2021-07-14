@@ -2,9 +2,6 @@
 layout: default
 title: kf
 ---
-This page describes my projects before graduate.
-All of the projects are not performed in school lectures.
-
 # Learning Based Kalman Filter
 <hr width="100%" color="black" size="5">
 
