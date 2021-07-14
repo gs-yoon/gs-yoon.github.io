@@ -332,6 +332,17 @@ tbody tr:nth-child(5) td{
   }
 }
 
+.mvideoWide {
+  height : 100%;
+}
+
+@media (min-width: 48em) {
+  .mvideoWide {
+    width : 480px;
+    height : auto;
+  }
+}
+
 
 /*
  * Messages
