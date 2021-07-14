@@ -23,8 +23,7 @@ More
 # Intelligent Model Car competition
 <hr width="100%" color="black" size="5">
 
-# Embed Google Drive 
-
+aa
 <!---
 Include this next line in your .md file for Google Drive videos, make sure to put your video ID up there!
 
