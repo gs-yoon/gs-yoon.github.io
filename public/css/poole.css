@@ -328,6 +328,13 @@ tbody tr:nth-child(5) td{
 
 @media (min-width: 48em) {
   .mvideoNarrow {
+    width : 380px;
+    height : 290px;
+  }
+}
+
+@media (min-width: 58em) {
+  .mvideoNarrow {
     width : 480px;
     height : 360px;
   }
@@ -340,11 +347,17 @@ tbody tr:nth-child(5) td{
 
 @media (min-width: 48em) {
   .mvideo {
-    width : 480px;
+    width : 380px;
     height : auto;
   }
 }
 
+@media (min-width: 58em) {
+  .mvideo {
+    width : 480px;
+    height : auto;
+  }
+}
 
 /*
  * Messages
