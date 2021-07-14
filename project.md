@@ -23,7 +23,7 @@ More
 # Intelligent Model Car competition
 <hr width="100%" color="black" size="5">
 
-<iframe width="480" height="360" style="float:left" src="https://drive.google.com/file/d/16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/preview" frameborder="0" allowfullscreen="">
+<iframe width="480" height="360" style="float:left; margin-right:2px" src="https://drive.google.com/file/d/16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/preview" frameborder="0" allowfullscreen="">
 </iframe>
 
 <iframe width="480" height="360" style="float:left" src="https://drive.google.com/file/d/1Ds5f1gfT0gVwPCYufanFA7me8Jjs1t9R/preview" frameborder="0" allowfullscreen="">
@@ -39,13 +39,24 @@ First, I had to make my own filter for line scan image. It was not able to detec
 <span style="color:red">Red is raw line scan image.</span> <span style="color:blue">Blue is filtered image.</span>
 <img src = "https://user-images.githubusercontent.com/57785895/122672323-03c7e200-d206-11eb-88c2-b643210ec317.png" width = "90%" height ="90%">
 
+# Intelligent Model Car competition
+<hr width="100%" color="black" size="5">
+<iframe width="480" height="360" style="float:left; margin-right:2.0em" src="https://drive.google.com/file/d/1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR/preview" frameborder="0" allowfullscreen="">
+</iframe>
+
+　It is aricraft detection without machine learning.
+Classical image processing is applied.
+Canny Edge and Feature Extraction is mained used.
+
+<p class=clearedText> </p>
+
 # Indoor Guide Robot for Visually Impaired Person
 <hr width="100%" color="black" size="5">
 
-<iframe width="640" height="480" style="float:left" src="https://drive.google.com/file/d/1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU/preview" frameborder="0" allowfullscreen="">
+<iframe width="640" height="480" style="float:left; margin-right:2.0em" src="https://drive.google.com/file/d/1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU/preview" frameborder="0" allowfullscreen="">
 </iframe>
 
-Using ROS, I implemented an indoor guide robot application into a mobile robot with cartographer SLAM
+　Using ROS, I implemented an indoor guide robot application into a mobile robot with cartographer SLAM
 It was designed for blind people to visit a huge building that has several floors.
 A very short paper was submitted at The 15th Korea Robotics Society Annual Conference (KRoC 2020)
   
