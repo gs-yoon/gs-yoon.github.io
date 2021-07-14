@@ -14,7 +14,7 @@ All of the projects are not performed in school lectures.
 
 <hr width="100%" color="black" size="5">
 
-<span style="color:blue">blue = Groundtruth</span>
+　<span style="color:blue">blue = Groundtruth</span>
 <span style="color:orange">orange = Estimated position of robot</span> <br>
 <img src = "https://user-images.githubusercontent.com/57785895/99908174-6dd9e080-2d24-11eb-841c-63a924860943.gif" alt=kf_animation_1 style="float:left">
 
@@ -51,7 +51,7 @@ First, I had to make my own filter for line scan image. It was not able to detec
 <iframe width="480" height="360" style="float:left; margin-right:2.0em" src="https://drive.google.com/file/d/1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR/preview" frameborder="0" allowfullscreen="">
 </iframe>
 
-　It is aricraft detection without machine learning.<br>
+It is aricraft detection without machine learning.<br>
 Classical image processing is applied.<br>
 Canny Edge and Feature Extraction is mainely used.
 
