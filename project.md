@@ -41,16 +41,19 @@ The goal of the competition is to design autonomous model car that traces correc
 
 I designed object detection with image processing and steering controller with the Stanely method. There are two key points of my algorithms. 
 First, I had to make my own filter for line scan image. It was not able to detect with well-known filters because of extreme noise and the very low disparity between lines and not lines. So, I mainley made a filtering model that catches features of the line as the following formula. A following image is the result of filtering.
-
-<a href="{{ site.baseurl}}/autocar/" More </a>
+<a href="{{ site.baseurl}}/autocar/"> More </a>
 
 <span style="color:red">Red is raw line scan image.</span> <span style="color:blue">Blue is filtered image.</span>
 <img src = "https://user-images.githubusercontent.com/57785895/122672323-03c7e200-d206-11eb-88c2-b643210ec317.png" width = "80%" height ="90%">
 
 # Aircraft Detection
 <hr width="100%" color="black" size="5">
-<iframe height="100%" style="float:left; margin-right:2.0em display:block" controls src="https://drive.google.com/file/d/1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR/preview" frameborder="0" allowfullscreen="">
-</iframe>
+<!--iframe class = mvideo style="float:left; margin-right:2.0em display:block" controls src="https://drive.google.com/file/d/1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR/preview" frameborder="0" allowfullscreen="">
+</iframe-->
+
+<video height="100%" style="float:left; margin-right:2.0em display:block" controls src="https://drive.google.com/uc?export=download&id=1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR" frameborder="0" allowfullscreen="">
+</video>
+
 
 It is aricraft detection without machine learning.<br>
 Classical image processing is applied.<br>
@@ -65,7 +68,7 @@ Canny Edge and Feature Extraction is mainely used.
 </h1>
 <hr width="100%" color="black" size="5">
 
-<iframe height="100%" style="float:left; margin-right:2px" src="https://drive.google.com/file/d/1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU/preview" frameborder="0" allowfullscreen="">
+<iframe class=mvideo style="float:left; margin-right:2px" src="https://drive.google.com/file/d/1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU/preview" frameborder="0" allowfullscreen="">
 </iframe>
 
 Using ROS, I implemented an indoor guide robot application into a mobile robot with cartographer SLAM. <br>
