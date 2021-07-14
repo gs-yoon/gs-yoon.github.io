@@ -337,6 +337,7 @@ tbody tr:nth-child(5) td{
   .mvideoNarrow {
     width : 480px;
     height : 360px;
+    float : left;
   }
 }
 
