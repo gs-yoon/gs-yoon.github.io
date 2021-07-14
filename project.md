@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-
 ---
 <!--youtubeId: 16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/view?usp=sharing-->
 This page describes my projects before graduate.
