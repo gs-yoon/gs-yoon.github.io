@@ -103,7 +103,7 @@ To implement internal calculation in SRAM, this xnor-network CNN is comprised of
 <p class=clearedText> </p>
 
 # Quadruped Spider Robot
-I made the robot to display in my robot club's exhibition
+I made the robot to display at my robot club's exhibition
 
 <img src = "https://user-images.githubusercontent.com/57785895/122671822-6ec3e980-d203-11eb-96cf-5beb25e27908.png" width="50%" height="50%">
 
