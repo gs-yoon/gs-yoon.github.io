@@ -26,11 +26,11 @@ More
 
 
 <div class="embed-container">
-  <iframe width="640" height="480" src="https://drive.google.com/file/d/16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/view?usp=sharing" frameborder="0" allowfullscreen="">
+  <iframe width="640" height="480" src="https://drive.google.com/file/d/16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/view" frameborder="0" allowfullscreen="">
   </iframe>
 </div>
 
-<iframe width="640" height="480" src="https://drive.google.com/file/d/1Ds5f1gfT0gVwPCYufanFA7me8Jjs1t9R/view?usp=sharing" frameborder="0" allowfullscreen="">
+<iframe width="640" height="480" src="https://drive.google.com/file/d/1Ds5f1gfT0gVwPCYufanFA7me8Jjs1t9R/view" frameborder="0" allowfullscreen="">
 </iframe>
 
 The goal of the competition is to design autonomous model car that traces correct lines and avoid obstacles. 
