@@ -326,8 +326,8 @@ tbody tr:nth-child(5) td{
   height : 200px;
 }
 
-@mediaNarrow (min-width: 48em) {
-  .mvideo {
+@media (min-width: 48em) {
+  .mvideoNarrow {
     width : 480px;
     height : 360px;
   }
