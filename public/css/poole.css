@@ -322,13 +322,13 @@ tbody tr:nth-child(5) td{
 
 @media (min-width: 48em) {
   .mvideo {
-    width = 480;
-    heigth = 360;
+    width : 480px;
+    heigth : 360px;
   }
 }
 
 .mvideo {
-  heigth = 100%;
+  heigth : 100%;
 }
 
 /*
