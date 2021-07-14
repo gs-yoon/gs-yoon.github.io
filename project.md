@@ -29,8 +29,6 @@ Include this next line in your .md file for Google Drive videos, make sure to pu
 
 Example:     driveId: 0B7L_dMcaZknxVTRndmdSQ0F5OFE/preview
 
-{% include googleDrivePlayer.html id=16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/view?usp=sharing %}
-{% include googleDrivePlayer.html id=1Ds5f1gfT0gVwPCYufanFA7me8Jjs1t9R/view?usp=sharing %}
 -->
 
 <!--div class="embed-container">
