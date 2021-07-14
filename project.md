@@ -2,7 +2,6 @@
 layout: page
 title: Projects
 ---
-<!--youtubeId: 16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/view?usp=sharing-->
 This page describes my projects before graduate.
 All of the projects are not performed in school lectures.
 
@@ -14,7 +13,7 @@ All of the projects are not performed in school lectures.
 
 <hr width="100%" color="black" size="5">
 
-　<span style="color:blue">blue = Groundtruth</span>
+　<span style="color:blue">　blue = Groundtruth</span>
 <span style="color:orange">orange = Estimated position of robot</span> <br>
 <img src = "https://user-images.githubusercontent.com/57785895/99908174-6dd9e080-2d24-11eb-841c-63a924860943.gif" alt=kf_animation_1 style="float:left">
 
@@ -67,7 +66,7 @@ Canny Edge and Feature Extraction is mainely used.
 <iframe width="480" height="360" style="float:left; margin-right:2.0em" src="https://drive.google.com/file/d/1n0-PRGFu63LX4q9goHhdiZQJonWWWCRU/preview" frameborder="0" allowfullscreen="">
 </iframe>
 
-　Using ROS, I implemented an indoor guide robot application into a mobile robot with cartographer SLAM. <br>
+Using ROS, I implemented an indoor guide robot application into a mobile robot with cartographer SLAM. <br>
 It was designed for blind people to visit a huge building that has several floors.<br>
 A very short paper was submitted at The 15th Korea Robotics Society Annual Conference (KRoC 2020)
 
