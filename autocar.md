@@ -32,8 +32,13 @@ The second point is to adapt the Stanely method for steering. The formula that I
 
 Following vedio is result
 
-<iframe width="480" height="360" style="float:left; margin-right:2px" src="https://drive.google.com/file/d/16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/preview" frameborder="0" allowfullscreen="">
+<!--iframe width="480" height="360" style="float:left; margin-right:2px" src="https://drive.google.com/file/d/16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/preview" frameborder="0" allowfullscreen="">
 </iframe>
 
 <iframe width="480" height="360" style="float:left" src="https://drive.google.com/file/d/1Ds5f1gfT0gVwPCYufanFA7me8Jjs1t9R/preview" frameborder="0" allowfullscreen="">
-</iframe>
+</iframe-->
+<video class = "mvideo" style="float:left; margin-right:2px" controls src="https://drive.google.com/uc?export=download&id=16QfK1wCPetp34UF6whwQUNx0rrHLa6rU" frameborder="0" allowfullscreen="">
+</video>
+
+<video class = "mvideo" style="float:left" controls src="https://drive.google.com/uc?export=download&id=1Ds5f1gfT0gVwPCYufanFA7me8Jjs1t9R" frameborder="0" allowfullscreen="">
+</video>
