@@ -48,8 +48,8 @@ First, I had to make my own filter for line scan image. It was not able to detec
 
 # Aircraft Detection
 <hr width="100%" color="black" size="5">
-<iframe height="100%" style="float:left; margin-right:2.0em" src="https://drive.google.com/file/d/1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR/preview" frameborder="0" allowfullscreen="">
-</iframe>
+<video height="100%" style="float:left; margin-right:2.0em" src="https://drive.google.com/file/d/1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR/preview" frameborder="0" allowfullscreen="">
+</video>
 
 It is aricraft detection without machine learning.<br>
 Classical image processing is applied.<br>
