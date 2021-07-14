@@ -87,9 +87,10 @@ A very short paper was submitted at The 15th Korea Robotics Society Annual Confe
 <img src="https://user-images.githubusercontent.com/57785895/122672672-ca907180-d207-11eb-9151-dd5e3029a643.png" alt="image" width="500" style="float:left">
 <img src="https://user-images.githubusercontent.com/57785895/122672560-1989d700-d207-11eb-9c7a-a633b143a9e1.png" alt="image" width="500" style="float:left">
 
-It was written for Dissertation <br>
-I developed a system accelerating CNN. It was implemented with computable SRAM and optimized xnor-network CNN.<br>
-The first image is a cell of the computable-SRAM. It can do xnor computation to operate CNN.<br>
+I developed a system accelerating CNN for a dissertation. It was implemented with computable SRAM and optimized xnor-network CNN.
+
+The first image is a cell of the computable-SRAM. It can do xnor computation to operate CNN.
+
 The second image is XNOR-CNN netwokr for Computable-SRAM.
 My main part is to implement the network.
 To implement internal calculation in SRAM, this xnor-network CNN is comprised of xnor computation. All values of weights and input images are quantized to +1 or -1. And the valuse are mapped to memory with differnt method from common. 
