@@ -29,7 +29,7 @@ To automatically determine parameters of the Kalman filter Using machine learnin
 </h1>
 <hr width="100%" color="black" size="5">
 
-<video class = "mvideo" style="float:left; margin-right:2px" controls autoplay src="https://drive.google.com/uc?export=download&id=16QfK1wCPetp34UF6whwQUNx0rrHLa6rU" frameborder="0" allowfullscreen="">
+<video class = "mvideo" style="float:left; margin-right:2px" controls src="https://drive.google.com/uc?export=download&id=16QfK1wCPetp34UF6whwQUNx0rrHLa6rU" frameborder="0" allowfullscreen="">
 </video>
 
 <video class = "mvideo" style="float:left" controls autoplay src="https://drive.google.com/uc?export=download&id=1Ds5f1gfT0gVwPCYufanFA7me8Jjs1t9R" frameborder="0" allowfullscreen="">
