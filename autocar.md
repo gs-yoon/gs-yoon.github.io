@@ -28,3 +28,12 @@ The second point is to adapt the Stanely method for steering. The formula that I
 **L** is distance between car and lane.
 
 ![stanely](https://user-images.githubusercontent.com/57785895/122923723-f0507e80-d39f-11eb-8ea7-c530278923f9.png)
+
+
+Following vedio is result
+
+<iframe width="480" height="360" style="float:left; margin-right:2px" src="https://drive.google.com/file/d/16QfK1wCPetp34UF6whwQUNx0rrHLa6rU/preview" frameborder="0" allowfullscreen="">
+</iframe>
+
+<iframe width="480" height="360" style="float:left" src="https://drive.google.com/file/d/1Ds5f1gfT0gVwPCYufanFA7me8Jjs1t9R/preview" frameborder="0" allowfullscreen="">
+</iframe>
