@@ -321,23 +321,25 @@ tbody tr:nth-child(5) td{
 }
 
 
-.mvideo {
-  height : 100%;
+.mvideoNarrow {
+  width : 260px;
+  height : 200px;
 }
 
-@media (min-width: 48em) {
+@mediaNarrow (min-width: 48em) {
   .mvideo {
     width : 480px;
     height : 360px;
   }
 }
 
-.mvideoWide {
-  height : 100%;
+.mvideo {
+  width : 260px;
+  height : auto;
 }
 
 @media (min-width: 48em) {
-  .mvideoWide {
+  .mvideo {
     width : 480px;
     height : auto;
   }
