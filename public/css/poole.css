@@ -357,6 +357,7 @@ tbody tr:nth-child(5) td{
   .mvideo {
     width : 480px;
     height : auto;
+    float : left;
   }
 }
 
