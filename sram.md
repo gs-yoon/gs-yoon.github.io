@@ -2,8 +2,6 @@
 layout: page
 title: In-Memory Computing SRAM with Xnor CNN
 ---
-
-# In-Memory Computing SRAM with Xnor CNN
 <hr width="100%" color="black" size="5">
 It was written for Dissertation
 
