@@ -22,6 +22,7 @@ To automatically determine parameters of the Kalman filter Using machine learnin
 <a href="{{ site.baseurl}}/kf/"> More </a>
 <p class=clearedText> </p>
 
+<br>
 <h1 class="post-title">
   <a href="{{ site.baseurl}}/autocar/">
     Intelligent Model Car competition
@@ -46,6 +47,7 @@ First, I had to make my own filter for line scan image. It was not able to detec
 <span style="color:red">Red is raw line scan image.</span> <span style="color:blue">Blue is filtered image.</span>
 <img src = "https://user-images.githubusercontent.com/57785895/122672323-03c7e200-d206-11eb-88c2-b643210ec317.png" width = "80%" height ="90%">
 
+<br>
 # Aircraft Detection
 <hr width="100%" color="black" size="5">
 <!--iframe class = "mvideo" style="float:left; margin-right:2.0em display:block" controls src="https://drive.google.com/file/d/1X9ARlR9JzDUpHBmBsXHeoW046sgo9TZR/preview" frameborder="0" allowfullscreen="">
@@ -60,6 +62,7 @@ Canny Edge and Feature Extraction is mainely used.
 
 <p class=clearedText> </p>
 
+<br>
 <h1 class="post-title">
   <a href="{{ site.baseurl}}/guiderobot/">
     Indoor Guide Robot for Visually Impaired Person
@@ -80,6 +83,7 @@ A very short paper was submitted at The 15th Korea Robotics Society Annual Confe
 
 <p class=clearedText> </p>
 
+<br>
 <h1 class="post-title">
   <a href="{{ site.baseurl}}/sram/">
     In-Memory Computing SRAM with Xnor CNN
@@ -102,11 +106,13 @@ To implement internal calculation in SRAM, this xnor-network CNN is comprised of
 
 <p class=clearedText> </p>
 
+<br>
 # Quadruped Spider Robot
 I made the robot to display at my robot club's exhibition
 
 <img src = "https://user-images.githubusercontent.com/57785895/122671822-6ec3e980-d203-11eb-96cf-5beb25e27908.png" width="50%" height="50%">
 
+<br>
 # Blitzcrank Robot
 I made the robot for Kyunghee SW Festival.
 
