@@ -94,6 +94,7 @@ A very short paper was submitted at The 15th Korea Robotics Society Annual Confe
 <img src="https://user-images.githubusercontent.com/57785895/122672672-ca907180-d207-11eb-9151-dd5e3029a643.png" alt="image" width="500" style="float:left">
 <img src="https://user-images.githubusercontent.com/57785895/122672560-1989d700-d207-11eb-9c7a-a633b143a9e1.png" alt="image" width="500" style="float:left">
 
+<p class=clearedText> </p>
 I developed a system accelerating CNN for a dissertation. It was implemented with computable SRAM and optimized xnor-network CNN.
 
 The first image is a cell of the computable-SRAM. It can do xnor computation to operate CNN.
