@@ -109,12 +109,14 @@ To implement internal calculation in SRAM, this xnor-network CNN is comprised of
 
 <br>
 # Quadruped Spider Robot
+<hr width="100%" color="black" size="5">
 I made the robot to display at my robot club's exhibition
 
 <img src = "https://user-images.githubusercontent.com/57785895/122671822-6ec3e980-d203-11eb-96cf-5beb25e27908.png" width="50%" height="50%">
 
 <br>
 # Blitzcrank Robot
+<hr width="100%" color="black" size="5">
 I made the robot to display at Kyunghee SW Festival.
 
 <img src = "https://user-images.githubusercontent.com/57785895/122671813-62d82780-d203-11eb-8aae-cf9e5e14d6d4.png" width="35%" height="35%">
