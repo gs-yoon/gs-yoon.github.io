@@ -7,12 +7,12 @@ title: Awards
 
 #### Excellence Award, Biomechatronics Practical Problem Research (2019)
 <div class="message">
-Given for excellent performance in biomechatronics research, by Biomechatronics Resarch Center in Kyunghee University. Releated to the Indoor Guide Robot
+Given for excellent performance in biomechatronics research, by Biomechatronics Resarch Center in Kyunghee University. Releated to the Indoor Guide Robot project
 </div>
 
 #### Bronze Award, Intelligent Model Car Competition (2018)
 <div class="message">
-Given for excellent performance in Intelligent Model Car Competition, by Hanyang University. 
+Given for excellent performance in Intelligent Model Car Competition, by Hanyang University. Releated to the Intelligent Model Car project
 </div>
 
 #### Award of Chief of Staff of the Army(육군참모총장상), Opensource Academy (2017)
