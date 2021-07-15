@@ -17,7 +17,7 @@ All of the projects are not performed in school lectures.
 <span style="color:orange">orange = Estimated position of robot</span> <br>
 <img src = "https://user-images.githubusercontent.com/57785895/99908174-6dd9e080-2d24-11eb-841c-63a924860943.gif" alt=kf_animation_1 style="float:left">
 
-To automatically determine parameters of the Kalman filter Using machine learning and convex optimization. In other words, learning the parameters of the Kalman filter
+To automatically determine parameters of the Kalman filter with machine learning and convex optimization. In other words, learning the parameters of the Kalman filter
 
 <a href="{{ site.baseurl}}/kf/"> More </a>
 <p class=clearedText> </p>
