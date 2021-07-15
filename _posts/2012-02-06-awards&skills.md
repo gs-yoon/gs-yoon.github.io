@@ -12,7 +12,7 @@ Given for excellent performance in biomechatronics research, by Biomechatronics 
 
 #### Bronze Award, Intelligent Model Car Competition (2018)
 <div class="message">
-Given for excellent performance in Intelligent Model Car Competition, by Hanyang University. Releated to the Intelligent Model Car project
+Given for excellent performance in Intelligent Model Car Competition, by Hanyang University.
 </div>
 
 #### Award of Chief of Staff of the Army(육군참모총장상), Opensource Academy (2017)
