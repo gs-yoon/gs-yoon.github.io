@@ -115,7 +115,7 @@ I made the robot to display at my robot club's exhibition
 
 <br>
 # Blitzcrank Robot
-I made the robot for Kyunghee SW Festival.
+I made the robot to display at Kyunghee SW Festival.
 
 <img src = "https://user-images.githubusercontent.com/57785895/122671813-62d82780-d203-11eb-8aae-cf9e5e14d6d4.png" width="35%" height="35%">
 
