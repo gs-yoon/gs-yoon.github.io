@@ -2,8 +2,7 @@
 layout: page
 title: Projects
 ---
-This page describes my projects before graduate.
-All of the projects are not performed in school lectures.
+This page describes my project experiences before graduate.
 
 <h1 class="post-title">
   <a href="{{ site.baseurl}}/kf/">
