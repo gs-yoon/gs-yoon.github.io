@@ -23,7 +23,7 @@ Hyndai Mobis -->
 　For visual odometry, I hope to apply convex optimization. Many parameters of visual odometry (e.g. coefficients of lens distortion or many filters...) must be adopted very correctly. Using convex optimization and machine learning, it will be possible to obtain value properly and easily.
 -->
 ### Research Interests : Convex Optimization and Image Understanding.
-　With convex optimization, I think many problem of determin acurate parameters or coeffecients can be slolved. For example, parameter of Kalman Filter or coefficeints of sensor calibration shoudle be determined practically. So, It would be possible for the problem to be sloved automaticaly with convex optimization.
+　With convex optimization, I think many problem of determin acurate parameters or coeffecients can be slolved. For example, parameter of Kalman Filter or coefficeints of sensor calibration shoudle be determined practically. So, It would be possible for the problem to be sloved automaticaly with convex optimization. <br>
   Especially in image understanding, I’m interested in compressed sensing and wavelet transform. Using compressed sensing and wavlete for deep learning would make possible immediate image understanding. So, it must be very useful in real time system like autonomous environment.
 
 <p class=clearedText> </p>
