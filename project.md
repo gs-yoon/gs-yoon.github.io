@@ -40,8 +40,9 @@ That image(.gif) is an animation of the result. The animation show the estimated
 
 The goal of the competition is to design autonomous model car that traces correct lines and avoid obstacles. 
 
-I designed object detection with image processing and steering controller with the Stanely method. There are two key points of my algorithms. 
-First, I had to make my own filter for line scan image. It was not able to detect with well-known filters because of extreme noise and the very low disparity between lines and not lines. So, I mainley made a filtering model that catches features of the line as the following formula. A following image is the result of filtering.
+First, I developed almost H/W ( power supply system, sensing system ) with Tri-core MCU. 
+Sececond, I designed object detection with image processing and steering controller with the Stanely method.
+Especially for image processing, I had to make my own filter for line scan image. It was not able to detect with well-known filters because of extreme noise and the very low disparity between lines and not lines. So, I mainley made a filtering model that catches features of the line as the following formula. A following image is the result of filtering.
 <a href="{{ site.baseurl}}/autocar/"> 　More </a>
 
 <span style="color:red">Red is raw line scan image.</span> <span style="color:blue">Blue is filtered image.</span>
