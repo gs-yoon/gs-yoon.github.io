@@ -16,8 +16,8 @@ This page describes my project experiences before graduate.
 <span style="color:orange">orange = Estimated position of robot</span> <br>
 <img src = "https://user-images.githubusercontent.com/57785895/99908174-6dd9e080-2d24-11eb-841c-63a924860943.gif" alt=kf_animation_1 style="float:left">
 
-To automatically determine parameters of the Kalman filter with machine learning and convex optimization. In other words, learning the parameters of the Kalman filter.<br>
-That image(.gif) is an animation of the result. The animation show the estimated position of robot getting more similar to the groundtruth by learning parameters.
+　To automatically determine parameters of the Kalman filter with machine learning and convex optimization. In other words, learning the parameters of the Kalman filter.<br>
+　That image(.gif) is an animation of the result. The animation show the estimated position of robot getting more similar to the groundtruth by learning parameters.
 
 <a href="{{ site.baseurl}}/kf/"> More </a>
 <p class=clearedText> </p>
