@@ -9,7 +9,7 @@ title: Activities and Experiences
 ### Intelligent Model Car competition
   Goal of the competition is to design autonomous model car that trace correct lines and avoid obstacles. 
   I desinged object detection with image processing and steer controller with stanely method.
-  Moreover, I made almost H/W Platform of it.
+  And I developed almost H/W ( power supply system, sensing system ) with Tri-core MCU.
   
 ### Indoor Guide Robot for Visually Impaired Person
   Using ROS, I implemented a indoor guidance application for mobile robot. 
