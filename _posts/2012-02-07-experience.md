@@ -8,7 +8,7 @@ title: Activities and Experiences
 
 ### Intelligent Model Car competition
   Goal of the competition is to design autonomous model car that trace correct lanes and avoid obstacles. 
-  Our teams desinged Lane Detection with image processing and steer controller with Stanely Method.
+  Our team desinged Lane Detection with image processing and steer controller with Stanely Method.
   My first role is Developing System with Infineon MCUs and many H/W Parts. Second role is Lane Detection.
   For detecting lanes, I implemented many filters and feature extraction.
   
