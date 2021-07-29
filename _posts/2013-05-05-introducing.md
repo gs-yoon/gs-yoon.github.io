@@ -24,9 +24,9 @@ Hyndai Mobis -->
 -->
 ### Contact
 
-Mail : siljamjary7@gmail.com
+　Mail : siljamjary7@gmail.com
 
-Phone : +82)10-7195-0386
+　Phone : +82)10-7195-0386
 
 <p class=clearedText> </p>
 <!--
@@ -35,11 +35,8 @@ Phone : +82)10-7195-0386
 　Especially in image understanding, I’m interested in compressed sensing and wavelet transform. Using compressed sensing and wavlete for deep learning would make possible immediate image understanding. So, it must be very useful in real time system like autonomous environment.
 -->
 ### Research Interests 
-　Image Understanding
- 
-　Copressive Sensing
- 
-　Convex Optimization
+<hr width="100%" color="black" size="5">
+　Image Understanding, Copressive Sensing, Convex Optimization
 
 <table>
   <tbody>
