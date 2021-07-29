@@ -75,7 +75,7 @@ Hyndai Mobis -->
     </tr>
    <tr>
       <td> </td>
-      <td>Working as Advanced Driving Assitance System SW engineer. My part is that programming Vision Process Unit(MCU + GPU + HWA) for image processing </td>
+      <td>Working as Advanced Driving Assitance System SW engineer. My part is that programming Vision Process Unit for image processing </td>
     </tr>
    </tbody>
 </table>
