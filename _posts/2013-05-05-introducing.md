@@ -34,7 +34,7 @@ Hyndai Mobis -->
 　With convex optimization, I think many problem of determin acurate parameters or coeffecients can be slolved. For example, parameter of Kalman Filter or coefficeints of sensor calibration shoudle be determined practically. So, It would be possible for the problem to be sloved automaticaly with convex optimization. <br>
 　Especially in image understanding, I’m interested in compressed sensing and wavelet transform. Using compressed sensing and wavlete for deep learning would make possible immediate image understanding. So, it must be very useful in real time system like autonomous environment.
 -->
-### Research Interests 
+# Research Interests 
 <hr width="100%" color="black" size="5">
 　Image Understanding, Copressive Sensing, Convex Optimization
 
