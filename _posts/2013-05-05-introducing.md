@@ -36,7 +36,8 @@ Hyndai Mobis -->
 -->
 # Research Interests 
 <hr width="100%" color="black" size="5">
-　Image Understanding, Copressive Sensing, Convex Optimization
+Image Understanding, Copressive Sensing, Convex Optimization
+
 
 <table>
   <tbody>
