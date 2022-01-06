@@ -17,7 +17,6 @@ Hyndai Mobis -->
 ### Geonsu Yoon
 <p class=smallText> siljamjary7@gmail.com | +82)10-7195-0386 </p>
 ##### Research Interests 
-<hr width="100%" color="black" size="5">
 <p class=smallText>Computer Vision, Robotics, On-dvice AI </p>
 
 <!--
