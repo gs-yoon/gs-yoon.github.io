@@ -77,27 +77,54 @@ Hyndai Mobis -->
    </tbody>
 </table>
 
-### Awards
+
+#### Projects
+<hr width="100%" color="black" size="1">
+
+<b>Intelligent Model Car competition</b>
+  <p class="smallText">Goal of the competition is to design autonomous model car that trace correct lanes and avoid obstacles.
+  Our team desinged Lane Detection with image processing and steer controller with Stanely Method.
+  My first role is Developing System with Infineon MCUs and many H/W Parts. Second role is Lane Detection.
+  For detecting lanes, I implemented many filters and feature extraction.</p>
+  
+<b>Indoor Guide Robot for Visually Impaired Person</b>
+  <p class="smallText">Using ROS, I implemented a indoor guidance application for mobile robot. 
+  It was designed for blind person to visit huge building that has several floors. 
+  >A very short paper was submitted in The 15th Korea Robotics Society Annual Conference (KRoC 2020) </p>
+
+<b>In-Memory Computing SRAM with Xnor CNN</b>
+  <p class="smallText">I developed CNN acceleration system. It was comprised of computable SRAM and optimized XNOR-CNN.</p>
+
+<b>Learning Based Kalman Filter</b>
+  <p class="smallText"> For automatically determining parmeters of the Kalman filter with machine learning and convex optimization. </p>
+
+<p class = smallText> [Go to More Information(link)](https://gs-yoon.github.io/project/) </p>
+
+<!--### Robot Club
+  <p class="smallText">Howdy! This is an example blog post that shows several types of HTML content supported in this theme.</p>--> 
+
+
+#### Awards
 <hr width="100%" color="black" size="5">
 
-#### Excellence Award, Biomechatronics Practical Problem Research (2019)
+<b> Excellence Award, Biomechatronics Practical Problem Research (2019)</b>
 <!--div class="message">
 Given for excellent performance in biomechatronics research, by Biomechatronics Resarch Center in Kyunghee University. Releated to the Indoor Guide Robot project
 </div-->
 
-#### Bronze Award, Intelligent Model Car Competition (2018)
+<b> Bronze Award, Intelligent Model Car Competition (2018) </b>
 <!--div class="message">
 Given for excellent performance in Intelligent Model Car Competition, by Hanyang University.
 </div-->
 
-#### Award of Chief of Staff of the Army(육군참모총장상), Opensource Academy (2017)
+<b> Award of Chief of Staff of the Army(육군참모총장상), Opensource Academy (2017) </b>
 <!--div class="message">
 Given for excellent performance in development using open-source, by Ministry of Science and ICT, Ministry of National Defense 
 </div-->
 
 
 
-### Skills
+#### Skills
 <hr width="100%" color="black" size="5">
 
 ![image](https://user-images.githubusercontent.com/57785895/125151370-9e21a280-e180-11eb-9ecd-47614a60de1f.png)
