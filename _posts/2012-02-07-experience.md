@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_
 title: Activities and Experiences
 ---
 
