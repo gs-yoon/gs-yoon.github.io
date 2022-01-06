@@ -12,33 +12,43 @@ Kyunghee university - Electronic Engineering
 ### Careere
 Hyndai Mobis -->
 
-<img src="https://user-images.githubusercontent.com/57785895/122384263-7d619500-cfa6-11eb-8250-ffe4ead91b41.jpg" alt="image" style="float:left">
-
-### Geonsu Yoon
+# Geonsu Yoon
 <p class=smallText> siljamjary7@gmail.com | +82)10-7195-0386 </p>
-##### Research Interests 
+#### Research Interests 
+<hr width="100%" color="black" size="5">
 <p class=smallText>Computer Vision, Robotics, On-dvice AI </p>
 
 <!--
 ### Research Interests : Image Understanding and Visual Odometry.
 　Especially in image understanding, I’m interested in wavelet transform. Using wavelet transform for deep learning would make possible immediate image understanding. So, it must be very useful in an autonomous environment. If apply compressed sensing to this, it can be faster. <br>
 　For visual odometry, I hope to apply convex optimization. Many parameters of visual odometry (e.g. coefficients of lens distortion or many filters...) must be adopted very correctly. Using convex optimization and machine learning, it will be possible to obtain value properly and easily.
--->
-
 
 <p class=clearedText> </p>
-<!--
+
 ### Research Interests : Convex Optimization, Image Understanding&Copressive Sensing.
 　With convex optimization, I think many problem of determin acurate parameters or coeffecients can be slolved. For example, parameter of Kalman Filter or coefficeints of sensor calibration shoudle be determined practically. So, It would be possible for the problem to be sloved automaticaly with convex optimization. <br>
 　Especially in image understanding, I’m interested in compressed sensing and wavelet transform. Using compressed sensing and wavlete for deep learning would make possible immediate image understanding. So, it must be very useful in real time system like autonomous environment.
 -->
 
 
-
 <table>
   <tbody>
      <tr>
-      <td class = "cellLine" colspan = '2'> <h3 id="education">Education</h3></td>
+      <td class = "cellLine" colspan = '2'> <h4 id="English">English</h4></td>
+    </tr>
+      <tr>
+      <td class = "topPaddedCell" rowspan = '2'><b>OPIc </b></td>
+      <td class = "topPaddedCell" ><b>IH</b></td>
+    </tr>
+      <tr>
+      <td>Bachelor of Electronic Engineering</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>GPA : 3.5/4.5</td>
+    </tr>
+     <tr>
+      <td class = "cellLine" colspan = '2'> <h4 id="education">Education</h4></td>
     </tr>
       <tr>
       <td class = "topPaddedCell" rowspan = '2'><b>2015 ~ 2020 </b></td>
@@ -52,7 +62,7 @@ Hyndai Mobis -->
       <td>GPA : 3.5/4.5</td>
     </tr>
     <tr>
-      <td class = "cellLine" colspan = '2'> <h3 id="career">Career</h3> </td>
+      <td class = "cellLine" colspan = '2'> <h4 id="career">Career</h4> </td>
       <td> </td>
     </tr>
     <tr>
