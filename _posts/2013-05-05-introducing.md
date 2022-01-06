@@ -33,7 +33,7 @@ Hyndai Mobis -->
 <table>
   <tbody>
      <tr>
-      <td colspan = '2'> <h4 id="education">Education</h4></td>
+      <td class = "cellLine" colspan = '2'> <h4 id="education">Education</h4></td>
     </tr>
       <tr>
       <td class = "topPaddedCell" rowspan = '2'><b>2015 ~ 2020 </b></td>
@@ -47,7 +47,7 @@ Hyndai Mobis -->
       <td>GPA : 3.5/4.5</td>
     </tr>
     <tr>
-      <td colspan = '2'> <h4 id="career">Career</h4> </td>
+      <td class = "cellLine" colspan = '2'> <h4 id="career">Career</h4> </td>
       <td> </td>
     </tr>
     <tr>
@@ -66,7 +66,7 @@ Hyndai Mobis -->
       <td>Working as ADAS SW engineer control Vision Process Unit for image processing </td>
     </tr>
      <tr>
-      <td colspan = '2'> <h4 id="English">English</h4></td>
+      <td class = "cellLine" colspan = '2'> <h4 id="English">English</h4></td>
     </tr>
     <tr>
       <td class = "topPaddedCell"><b>OPIc</b></td>
@@ -130,7 +130,6 @@ Given for excellent performance in development using open-source, by Ministry of
 
 
 #### Skills
-<!--hr width="100%" color="black" size="5"-->
 
 ![image](https://user-images.githubusercontent.com/57785895/125151370-9e21a280-e180-11eb-9ecd-47614a60de1f.png)
 <!--
