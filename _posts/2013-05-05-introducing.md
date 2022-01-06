@@ -83,7 +83,7 @@ Hyndai Mobis -->
   <p class="smallText">
     The goal is to design autonomous model car.
   First, I made some image filtering and lane detecting algorithms for lane detection.
-  The agorithm is consist of emphasizing features and finding minimum/maximum points to determine lane.
+  The agorithms is consist of emphasizing features and finding minimum/maximum points to determine lane.
   Second, I made a control algorithm using Stanely Method for lane tracking.
   I received a prize for successful accomplishment.
   </p>
