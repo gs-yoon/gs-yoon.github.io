@@ -120,12 +120,6 @@ p {
   margin-bottom: 1rem;
 }
 
-/* Small body text*/
-p_sml {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
 strong {
   color: #303030;
 }
@@ -304,6 +298,12 @@ tbody tr:nth-child(5) td{
 
 .clearedText {
   clear: both;
+}
+
+/* Small body text*/
+.smallText {
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 
 .cellLine {
