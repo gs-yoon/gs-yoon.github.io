@@ -80,37 +80,41 @@ Hyndai Mobis -->
 
 <p class="smallText"><b>Intelligent Model Car competition</b></p>
   <div class="message">
-  <p class="smallText">Goal of the competition is to design autonomous model car that trace correct lanes and avoid obstacles.
-  Our team desinged Lane Detection with image processing and steer controller with Stanely Method.
-  My first role is Developing System with Infineon MCUs and many H/W Parts. Second role is Lane Detection.
-  For detecting lanes, I implemented many filters and feature extraction.</p>
+  <p class="smallText">
+    The goal is to design autonomous model car.
+  First, I made some image filtering and lane detecting algorithms for lane detection.
+  The agorithm is consist of emphasizing features and finding minimum/maximum points to determine lane
+  Second, I made a control algorithm using Stanely Method for lane tracking.
+  I received a prize for successful accomplishment.
+  </p>
   </div>
   
 <p class="smallText"><b>Indoor Guide Robot for Visually Impaired Person</b></p>
   <div class="message">
-  <p class="smallText">Using ROS, I implemented a indoor guidance application for mobile robot. 
+  <p class="smallText">I implemented a indoor guidance s/w for mobile robot using ROS. 
   It was designed for blind person to visit huge building that has several floors. 
-  >A very short paper was submitted in The 15th Korea Robotics Society Annual Conference (KRoC 2020) </p>
+  I presented it in The 15th Korea Robotics Society Annual Conference (KRoC 2020)
+  I received a prize for successful accomplishment. </p>
   </div>
 
 <p class="smallText"><b>In-Memory Computing SRAM with Xnor CNN</b></p>
   <div class="message">
-  <p class="smallText">I developed CNN acceleration system. It was comprised of computable SRAM and optimized XNOR-CNN.</p>
+  <p class="smallText">
+    I desinged Processing In Memory(PIM) for accelerating CNN.
+    First, I desinged PIM with dual-split SRAM.
+    Second, I desinged XNOR-CNN to calculate in PIM.
+    The XNOR-CNN has quantized CNN architecture(1 or -1) to use xnor operation</p>
   </div>
 
 <p class="smallText"><b>Learning Based Kalman Filter</b></p>
 <div class="message">
-  <p class="smallText"> For automatically determining parmeters of the Kalman filter with machine learning and convex optimization. </p>
+  <p class="smallText"> Automatically determining parmeters of the Kalman filter with machine learning and convex optimization. </p>
   </div>
 
 <p class="smallText"><a href="https://gs-yoon.github.io/project/">More (link)</a></p>
 
-<!--### Robot Club
-  <p class="smallText">Howdy! This is an example blog post that shows several types of HTML content supported in this theme.</p>--> 
-
 
 #### Awards
-<hr width="100%" color="black" size="5">
 
 <p class="smallText"><b> Excellence Award, Biomechatronics Practical Problem Research (2019)</b></p>
 <!--div class="message">
