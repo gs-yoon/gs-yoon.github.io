@@ -39,7 +39,7 @@ Hyndai Mobis -->
 <table>
   <tbody>
      <tr>
-      <td class = "cellLine" colspan = '2'> <h1 id="education">Education</h1></td>
+      <td class = "cellLine" colspan = '2'> <h3 id="education">Education</h3></td>
     </tr>
       <tr>
       <td class = "topPaddedCell" rowspan = '2'><b>2015 ~ 2020 </b></td>
@@ -57,7 +57,7 @@ Hyndai Mobis -->
       <td>　</td>
     </tr>
     <tr>
-      <td class = "cellLine" colspan = '2'> <h1 id="career">Career</h1> </td>
+      <td class = "cellLine" colspan = '2'> <h3 id="career">Career</h3> </td>
       <td> </td>
     </tr>
     <tr>
