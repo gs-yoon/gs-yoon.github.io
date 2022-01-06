@@ -248,6 +248,15 @@ img {
   padding-right: 2.5em;
 }
 
+img_sidebar {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+  border-radius: 5px;
+  padding-right: 1.5em;
+  padding-left: 1em;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;
