@@ -126,7 +126,7 @@ Given for excellent performance in development using open-source, by Ministry of
 
 
 #### Skills
-<hr width="100%" color="black" size="5">
+<!--hr width="100%" color="black" size="5"-->
 
 ![image](https://user-images.githubusercontent.com/57785895/125151370-9e21a280-e180-11eb-9ecd-47614a60de1f.png)
 <!--
