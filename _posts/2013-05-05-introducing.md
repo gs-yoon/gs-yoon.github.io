@@ -29,6 +29,20 @@ Hyndai Mobis -->
 
 <table>
   <tbody>
+     <tr>
+      <td class = "cellLine" colspan = '2'> <h4 id="education">Education</h4></td>
+    </tr>
+      <tr>
+      <td class = "topPaddedCell" rowspan = '2'><b>2015 ~ 2020 </b></td>
+      <td class = "topPaddedCell" ><b>Kyunghee university</b></td>
+    </tr>
+      <tr>
+      <td>Bachelor of Electronic Engineering</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>GPA : 3.5/4.5</td>
+    </tr>
     <tr>
       <td class = "cellLine" colspan = '2'> <h4 id="career">Career</h4> </td>
       <td> </td>
@@ -49,21 +63,13 @@ Hyndai Mobis -->
       <td>Working as ADAS SW engineer control Vision Process Unit for image processing </td>
     </tr>
      <tr>
-      <td class = "cellLine" colspan = '2'> <h4 id="education">Education</h4></td>
-    </tr>
-      <tr>
-      <td class = "topPaddedCell" rowspan = '2'><b>2015 ~ 2020 </b></td>
-      <td class = "topPaddedCell" ><b>Kyunghee university</b></td>
-    </tr>
-      <tr>
-      <td>Bachelor of Electronic Engineering</td>
+      <td class = "cellLine" colspan = '1'> <h4 id="English">English</h4></td>
     </tr>
     <tr>
-      <td> </td>
-      <td>GPA : 3.5/4.5</td>
+      <td class = "topPaddedCell" rowspan = '1'><b>OPIc </b></td>
     </tr>
-     <tr>
-      <td class = "cellLine" colspan = '2'> <h4 id="English">English</h4></td>
+      <tr>
+      <td>IH</td>
     </tr>
    </tbody>
 </table>
