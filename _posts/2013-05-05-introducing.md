@@ -83,7 +83,7 @@ Hyndai Mobis -->
   <p class="smallText">
     The goal is to design autonomous model car.
   First, I made some image filtering and lane detecting algorithms for lane detection.
-  The agorithm is consist of emphasizing features and finding minimum/maximum points to determine lane
+  The agorithm is consist of emphasizing features and finding minimum/maximum points to determine lane.
   Second, I made a control algorithm using Stanely Method for lane tracking.
   I received a prize for successful accomplishment.
   </p>
@@ -93,7 +93,7 @@ Hyndai Mobis -->
   <div class="message">
   <p class="smallText">I implemented a indoor guidance s/w for mobile robot using ROS. 
   It was designed for blind person to visit huge building that has several floors. 
-  I presented it in The 15th Korea Robotics Society Annual Conference (KRoC 2020)
+  I presented it in The 15th Korea Robotics Society Annual Conference (KRoC 2020).
   I received a prize for successful accomplishment. </p>
   </div>
 
@@ -103,7 +103,7 @@ Hyndai Mobis -->
     I desinged Processing In Memory(PIM) for accelerating CNN.
     First, I desinged PIM with dual-split SRAM.
     Second, I desinged XNOR-CNN to calculate in PIM.
-    The XNOR-CNN has quantized CNN architecture(1 or -1) to use xnor operation</p>
+    The XNOR-CNN has quantized CNN architecture(1 or -1) to use xnor operation.</p>
   </div>
 
 <p class="smallText"><b>Learning Based Kalman Filter</b></p>
@@ -118,7 +118,7 @@ Hyndai Mobis -->
 
 <p class="smallText"><b> Excellence Award, Biomechatronics Practical Problem Research (2019)</b></p>
 <!--div class="message">
-Given for excellent performance in biomechatronics research, by Biomechatronics Resarch Center in Kyunghee University. Releated to the Indoor Guide Robot project
+Given for excellent performance in biomechatronics research, by Biomechatronics Resarch Center in Kyunghee University. Releated to the Indoor Guide Robot project.
 </div-->
 
 <p class="smallText"><b> Bronze Award, Intelligent Model Car Competition (2018) </b></p>
