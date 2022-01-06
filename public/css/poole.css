@@ -83,7 +83,7 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: 0rem;
+  margin-bottom: 0.3rem;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
@@ -378,8 +378,8 @@ tbody tr:nth-child(5) td{
  */
 
 .message {
-  margin-bottom: 1rem;
-  padding: 1rem;
+  /*margin-bottom: 1rem;*/
+  padding-left: 0.5rem;
   color: #717171;
   background-color: #f9f9f9;
 }
