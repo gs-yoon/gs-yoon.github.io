@@ -305,6 +305,7 @@ tbody tr:nth-child(5) td{
 .smallText {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: 0.7rem 
 }
 
 .cellLine {
