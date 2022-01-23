@@ -28,7 +28,7 @@ Hyndai Mobis -->
 # Geonsu Yoon
 
 #### Research Interests 
-<p class=smallText>Computer Vision, Robotics, On-dvice AI </p>
+<p class=smallText>Computer Vision, Robotics </p>
 
 <table>
   <tbody>
